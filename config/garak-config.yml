@@ -1,0 +1,8 @@
+{
+  "openai": {
+    "OpenAICompatible": {
+      "uri": "http://neptun:11434/v1/",
+      "suppressed_params": ["n", "frequency_penalty", "presence_penalty"]
+    }
+  }
+}

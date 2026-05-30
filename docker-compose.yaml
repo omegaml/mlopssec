@@ -1,0 +1,7 @@
+services:
+  mlopssec:
+    image: omegaml/mlopssec:latest      # use the base image
+    container_name: mlopssec
+    network_mode: host                  # keep the same networking you used with docker run
+    stdin_open: true                    # keep STDIN open so you can attach a shell
+    tty: true                           # allocate a pseudo‑TTY for interactive use
