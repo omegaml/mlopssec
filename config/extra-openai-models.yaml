@@ -1,0 +1,5 @@
+# put this into the path given by dirname $(llm logs path)
+# -- see https://llm.datasette.io/en/stable/other-models.html#openai-compatible-models
+- model_id: "gpt-oss:20b"
+  model_name: "gpt-oss:20b"
+  api_base: "http://neptun:11434/v1"
