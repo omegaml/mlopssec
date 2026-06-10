@@ -42,7 +42,7 @@
 {% for msg in history %}
     <div class="{{ msg.role }}">
         <b>{{ msg.role }}:</b>
-        <div class="md">{{ msg.content }}</div>
+        <div class="md">{{ msg.content | safe }}</div>
     </div>
 {% endfor %}
 

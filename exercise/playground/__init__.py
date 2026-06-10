@@ -9,8 +9,8 @@ os.chdir(base_path)
 from .app import app
 
 # ex02
-from ex02.protect import protect_all_routes
-protect_all_routes(app)
+# from ex02.protect import protect_all_routes
+# protect_all_routes(app)
 
 # ex06
-from ex06 import mytools
+# from ex06 import mytools
