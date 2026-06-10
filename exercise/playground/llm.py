@@ -43,12 +43,12 @@ def ask_llm(history, prompt, system_prompt=None, use_tools=True, timeout=90):
         })
 
     # check intents
-    from ex06.guardrails import action_guardrails
-    action_guardrails(messages)
+    # from ex06.guardrails import action_guardrails
+    # action_guardrails(messages)
     
     # check guardrails, pii-filter
-    from ex03.guardrails import input_guardrails, output_guardrails
-    input_guardrails(messages)
+    # from ex03.guardrails import input_guardrails, output_guardrails
+    # input_guardrails(messages)
     
     # call llm and tools
     extra.update(timeout=timeout)
@@ -72,11 +72,11 @@ def ask_llm(history, prompt, system_prompt=None, use_tools=True, timeout=90):
                     assistant_text += content
 
     # ex03
-    output_guardrails(assistant_text)
+    # output_guardrails(assistant_text)
 
     # ex05
-    from ex05.auditlog import generate_auditlog
-    generate_auditlog(messages, data["choices"])
+    # from ex05.auditlog import generate_auditlog
+    # generate_auditlog(messages, data["choices"])
     return assistant_text
 
 
