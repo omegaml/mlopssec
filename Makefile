@@ -9,11 +9,15 @@ check:
 publish:
 	docker push omegaml/mlopssec
 
-session:
-	docker run -it --name mlopssec --network host omegaml/mlopssec bash
-	docker commit mlopssec omegaml/mlopssec:session
+start:
+	docker run -it --name mlopssec --network host -d -v .:/home/jovyan/mlopssec:rw omegaml/mlopssec bash || echo "INFO: Already running"
+
+stop:
+	docker stop mlopssec
+	docker rm mlopssec
 
 session:
-	docker run --rm -it --name mlopssec --network host -v userhome:/home/jovyan:rw omegaml/mlopssec bash
+	docker exec -it mlopssec bash
 
-
+mitmproxy:
+	docker exec -it mlopssec mitmweb

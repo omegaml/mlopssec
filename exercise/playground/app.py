@@ -1,21 +1,23 @@
 import os
 import requests
 from flask import Flask, render_template, request, redirect
+from werkzeug.utils import secure_filename
 from .llm import ask_llm
 from .rag import retrieve, extend_prompt
+
 
 app = Flask(__name__)
 
 # kleine Chat-History im Speicher
 chat_history = []
-
-# simple RAG to upload documents
+# Datei Upload
 UPLOAD_FOLDER = "playground/data"
 os.makedirs(UPLOAD_FOLDER, exist_ok=True)
-app.config["UPLOAD_FOLDER"] = UPLOAD_FOLDER
+app.config["UPLOAD_FOLDER"] = UPLOAD_FOLDER # für /upload route
+app.config["MAX_CONTENT_LENGTH"] = 1024 * 1024  # 1MB maximum
 
 @app.route("/", methods=["GET", "POST"])
-def chat():
+def index():
     if request.method == "POST":
         prompt = request.form.get("prompt", "").strip()
         if prompt:
@@ -50,6 +52,9 @@ def reset():
 def upload():
     file = request.files.get("file")
     if file and file.filename.endswith(".txt"):
+        # secure_filename verhindert path traversal und unsichere filenamen
+        # -- https://werkzeug.palletsprojects.com/en/stable/utils/#werkzeug.utils.secure_filename
+        filename = secure_filename(file.filename)
         path = os.path.join(app.config["UPLOAD_FOLDER"], file.filename)
         file.save(path)
     return redirect("/")

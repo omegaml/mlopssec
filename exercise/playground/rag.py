@@ -3,7 +3,7 @@ import os
 DATA_FOLDER = "playground/data"
 MAX_LEN = 300
 
-def retrieve(prompt: str, top_k: int = 3, min_score=3, folder=None):
+def retrieve(prompt: str, top_k: int = 3, min_score=2, folder=None):
     """
     Very simple retrieval:
     - scans all .txt files

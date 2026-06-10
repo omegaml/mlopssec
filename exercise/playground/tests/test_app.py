@@ -1,5 +1,7 @@
 import pytest
 from flask import url_for
+from playground.llm import ask_llm
+from playground.tools import register_tool
 
 # If you have a create_app factory, import and use it:
 # from myapp import create_app
@@ -20,3 +22,19 @@ def test_login_redirect(client):
     # redirect Location should point to login (may include next param)
     location = resp.headers.get('Location', '')
     assert '/login' in location or 'login' in location.lower()
+
+def test_chat_completions(client):
+    history = []
+    result = ask_llm(history, 'Respond with: Hello World')
+    assert "Hello World" in result
+
+def test_tool_calling(client):
+    history = []
+
+    def hello_tool(*args, **kwargs):
+        return "hello from tool"
+
+    register_tool(hello_tool)
+    result = ask_llm(history, 'use the hello world tool', use_tools=True)
+    assert "hello from tool" in result
+    

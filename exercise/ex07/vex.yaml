@@ -1,0 +1,174 @@
+CVE-2025-6176:
+  detail: ''
+  history:
+  - added: null
+  - added: pip-audit
+  justification: ''
+  related:
+  - component: null
+  - component: pip-audit
+  response: []
+  state: in_triage
+CVE-2025-66418:
+  detail: ''
+  history:
+  - added: null
+  - added: pip-audit
+  related:
+  - component: null
+  - component: pip-audit
+  response: []
+  state: in_triage
+CVE-2025-66471:
+  detail: ''
+  history:
+  - added: null
+  - added: pip-audit
+  related:
+  - component: null
+  - component: pip-audit
+  response: []
+  state: in_triage
+CVE-2025-69872:
+  detail: ''
+  history:
+  - added: null
+  - added: pip-audit
+  related:
+  - component: null
+  - component: pip-audit
+  response: []
+  state: in_triage
+CVE-2025-8869:
+  detail: ''
+  history:
+  - added: null
+  - added: pip-audit
+  related:
+  - component: null
+  - component: pip-audit
+  response: []
+  state: in_triage
+CVE-2026-1703:
+  detail: ''
+  history:
+  - added: null
+  - added: pip-audit
+  related:
+  - component: null
+  - component: pip-audit
+  response: []
+  state: in_triage
+CVE-2026-21441:
+  detail: ''
+  history:
+  - added: null
+  - added: pip-audit
+  related:
+  - component: null
+  - component: pip-audit
+  response: []
+  state: in_triage
+CVE-2026-24049:
+  detail: ''
+  history:
+  - added: null
+  - added: pip-audit
+  related:
+  - component: null
+  - component: pip-audit
+  response: []
+  state: in_triage
+CVE-2026-3219:
+  detail: ''
+  history:
+  - added: null
+  - added: pip-audit
+  related:
+  - component: null
+  - component: pip-audit
+  response: []
+  state: in_triage
+CVE-2026-34993:
+  detail: ''
+  history:
+  - added: null
+  - added: pip-audit
+  related:
+  - component: null
+  - component: pip-audit
+  response: []
+  state: in_triage
+CVE-2026-45409:
+  detail: ''
+  history:
+  - added: null
+  - added: pip-audit
+  related:
+  - component: null
+  - component: pip-audit
+  response: []
+  state: in_triage
+CVE-2026-47265:
+  detail: ''
+  history:
+  - added: null
+  - added: pip-audit
+  related:
+  - component: null
+  - component: pip-audit
+  response: []
+  state: in_triage
+CVE-2026-6357:
+  detail: ''
+  history:
+  - added: null
+  - added: pip-audit
+  related:
+  - component: null
+  - component: pip-audit
+  response: []
+  state: in_triage
+CVE-2026-6587:
+  detail: ''
+  history:
+  - added: null
+  - added: pip-audit
+  related:
+  - component: null
+  - component: pip-audit
+  response: []
+  state: in_triage
+PYSEC-2026-141:
+  detail: ''
+  history:
+  - added: null
+  - added: pip-audit
+  related:
+  - component: null
+  - component: pip-audit
+  response: []
+  state: in_triage
+PYSEC-2026-196:
+  detail: ''
+  history:
+  - added: null
+  - added: pip-audit
+  related:
+  - component: null
+  - component: pip-audit
+  response: []
+  state: in_triage
+templates:
+  BomRef.09444145998354614.6364215990415449:
+    detail: ''
+    justification: ''
+    match: component
+    response: []
+    state: in_triage
+  n/a:
+    detail: ''
+    justification: ''
+    match: artifact
+    response: []
+    state: in_triage
