@@ -1,0 +1,2 @@
+WEATHER DATA:
+* It is sunny, no rain, 23 degrees

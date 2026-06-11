@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <script src="https://cdn.jsdelivr.net/npm/markdown-it@14.1.0/dist/markdown-it.min.js"></script>
+    <title>Simple LLM Chat</title>
+
+    <style>
+        body {
+            font-family: Arial;
+            margin: 30px;
+            max-width: 800px;
+        }
+
+        .user {
+            background: #e3f2fd;
+            padding: 10px;
+            margin: 5px;
+        }
+
+        .assistant {
+            background: #eeeeee;
+            padding: 10px;
+            margin: 5px;
+        }
+
+        textarea {
+            width: 100%;
+            height: 80px;
+        }
+
+        button {
+            margin-top: 10px;
+        }
+    </style>
+</head>
+<body>
+
+<h1>Simple LLM Chat</h1>
+
+<h2>Chat History</h2>
+
+{% for msg in history %}
+    <div class="{{ msg.role }}">
+        <b>{{ msg.role }}:</b>
+        <div class="md">{{ msg.content | safe }}</div>
+    </div>
+{% endfor %}
+
+    
+
+<form method="post">
+    <h2>Prompt</h2>
+    <textarea
+        name="prompt"
+        placeholder="Enter prompt..."
+    ></textarea>
+    <br>
+    <button type="submit">
+        Send
+    </button>
+</form>
+
+<form action="/reset" method="post">
+    <button type="submit">Reset Chat</button>
+</form>
+
+<form action="/upload" method="post" enctype="multipart/form-data">
+  <input type="file" name="file" accept=".txt">
+  <button type="submit">Upload TXT</button>
+</form>
+
+</body>
+<script>
+const md = window.markdownit();
+document.querySelectorAll(".md").forEach(el => {
+    el.innerHTML = md.render(el.textContent);
+});
+</script>
+</html>

